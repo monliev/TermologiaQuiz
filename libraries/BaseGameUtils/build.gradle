@@ -1,0 +1,32 @@
+apply plugin: 'com.android.library'
+
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.2'
+    }
+}
+
+dependencies {
+    compile "com.android.support:appcompat-v7:${appcompat_library_version}"
+    compile "com.android.support:support-v4:${support_library_version}"
+    compile "com.google.android.gms:play-services:${gms_library_version}"
+    //compile 'com.google.android.gms:play-services-appstate:8.4.0'
+}
+
+android {
+    compileSdkVersion android_compile_version
+    buildToolsVersion build_tools_version
+
+    defaultConfig {
+        minSdkVersion android_min_sdk_version
+        targetSdkVersion android_version
+
+        multiDexEnabled true
+    }
+}
+

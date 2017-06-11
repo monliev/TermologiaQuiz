@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+dependencies {
+    compile project(':quizBaseLib')
+    compile 'com.android.support:support-v4:25.2.0'
+    compile 'com.android.support:appcompat-v7:25.2.0'
+    compile 'com.google.android.gms:play-services:11.0.0'
+    //compile 'com.google.android.gms:play-services-appstate:8.4.0'
+}
+
+android {
+
+    compileSdkVersion android_compile_version
+    buildToolsVersion build_tools_version
+    defaultConfig {
+        minSdkVersion android_min_sdk_version
+        targetSdkVersion android_version
+
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+//            shrinkResources false
+//            zipAlignEnabled true
+//            debuggable false
+//            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}
+

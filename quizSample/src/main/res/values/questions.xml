@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_0_question">A temperatura costante, se la pressione raddoppia, il volume di un gas perfetto:</string>
+    <string name="question_0_answer1">rimane invariato perché è ben noto che il volume di un gas dipende solo dalla temperatura</string>
+    <string name="question_0_answer2">se il gas è compresso esso si scalda e la temperatura non può rimanere costante</string>
+    <string name="question_0_answer3">dimezza</string>
+    <string name="question_0_answer4">raddoppia</string>
+    <string name="question_0_answer5">quadruplica</string>
+    <string name="question_0_explanation"></string>
+    <string name="question_0_translated">false</string>
+
+    <string name="question_1_question">Quando l\'acqua solidifica in una conduttura, si può
+        verificare la rottura dei tubi; ciò avviene:</string>
+    <string name="question_1_answer1">perché nella solidificazione l\'acqua diviene
+        corrosiva</string>
+    <string name="question_1_answer2">perché nella solidificazione l\'acqua aumenta di
+        temperatura</string>
+    <string name="question_1_answer3">perché nel passaggio allo stato solido il volume
+        dell\'acqua diminuisce creando vuoti dannosi</string>
+    <string name="question_1_answer4">se i tubi sono di grosso diametro</string>
+    <string name="question_1_answer5">perché nel passaggio allo stato solido il volume
+        dell\'acqua aumenta</string>
+    <string name="question_1_explanation"></string>
+    <string name="question_1_translated">false</string>
+
+    <string name="question_2_question">A due corpi, alla stessa temperatura, viene fornita la
+        stessa quantità di calore. Al termine del riscaldamento i due corpi avranno ancora pari
+        temperatura se: </string>
+    <string name="question_2_answer1">hanno la stessa massa e lo stesso volume</string>
+    <string name="question_2_answer2">hanno lo stesso calore specifico e la stessa massa</string>
+    <string name="question_2_answer3">hanno lo stesso volume e lo stesso calore specifico</string>
+    <string name="question_2_answer4">il calore è stato fornito ad essi allo stesso modo</string>
+    <string name="question_2_answer5">entrambi si trovano nel vuoto</string>
+    <string name="question_2_explanation"></string>
+    <string name="question_2_translated">false</string>
+
+    <string name="question_3_question">Una data quantità di gas perfetto, contenuto in un
+        recipiente a pareti rigide, viene riscaldata dalla temperatura di 27°C a quella di 127°C.
+        La sua pressione è aumentata di un fattore:</string>
+    <string name="question_3_answer1">2</string>
+    <string name="question_3_answer2">4/3</string>
+    <string name="question_3_answer3">3/2</string>
+    <string name="question_3_answer4">10</string>
+    <string name="question_3_answer5">100</string>
+    <string name="question_3_explanation"></string>
+    <string name="question_3_translated">false</string>
+
+    <string name="question_4_question">Estraendo da un frigo un recipiente chiuso e contenente
+        acqua fredda si osserva, dopo qualche minuto, che sulla superficie esterna si formano
+        delle goccioline d\'acqua. Tale fenomeno è dovuto:</string>
+    <string name="question_4_answer1">al vapore d\'acqua atmosferico che condensa sulle pareti
+        fredde del recipiente</string>
+    <string name="question_4_answer2">al raccogliersi in goccioline di un velo d\'acqua che si
+        era depositata sul recipiente mentre era all\'interno del frigo</string>
+    <string name="question_4_answer3">all\'acqua che trasuda attraverso le pareti del
+        recipiente</string>
+    <string name="question_4_answer4">nessuna delle altre risposte</string>
+    <string name="question_4_answer5">all\'effetto di sovrappressione interna</string>
+    <string name="question_4_explanation"></string>
+    <string name="question_4_translated">false</string>
+
+    <string name="question_5_question">Detti rispettivamente P e V la pressione ed il volume di un gas perfetto si ha che:</string>
+    <string name="question_5_answer1">PV = costante comunque vari la temperatura</string>
+    <string name="question_5_answer2">P/V = costante comunque vari la temperatura</string>
+    <string name="question_5_answer3">PV = costante a temperatura costante</string>
+    <string name="question_5_answer4">P/V = costante a temperatura costante</string>
+    <string name="question_5_answer5">V/P = costante comunque vari la temperatura</string>
+    <string name="question_5_explanation"></string>
+    <string name="question_5_translated">false</string>
+
+    <string name="question_6_question">La quantità di calore necessaria per innalzare la
+        temperatura di 1 kg d\'acqua da 14,5 °C a 15,5 °C è:</string>
+    <string name="question_6_answer1">1 kcal</string>
+    <string name="question_6_answer2">4,18 kcal</string>
+    <string name="question_6_answer3">1000 kcal</string>
+    <string name="question_6_answer4">1 J</string>
+    <string name="question_6_answer5">4,18 J</string>
+    <string name="question_6_explanation"></string>
+    <string name="question_6_translated">false</string>
+
+    <string name="question_7_question">La densità di un corpo:</string>
+    <string name="question_7_answer1">dipende dalla latitudine</string>
+    <string name="question_7_answer2">è una costante</string>
+    <string name="question_7_answer3">è eguale al peso specifico</string>
+    <string name="question_7_answer4">dipende dalla temperatura</string>
+    <string name="question_7_answer5">è uguale alla costante dei gas perfetti</string>
+    <string name="question_7_explanation"></string>
+    <string name="question_7_translated">false</string>
+
+    <string name="question_8_question">La temperatura di ebollizione di un liquido ad una data pressione:</string>
+    <string name="question_8_answer1">dipende esclusivamente dal tipo di liquido che si considera</string>
+    <string name="question_8_answer2">dipende dalla massa del liquido</string>
+    <string name="question_8_answer3">dipende dalla quantità di calore assorbito</string>
+    <string name="question_8_answer4">dipende sia dal tipo di liquido che dalla quantità di calore assorbito</string>
+    <string name="question_8_answer5">dipende dal volume di liquido</string>
+    <string name="question_8_explanation"></string>
+    <string name="question_8_translated">false</string>
+
+    <string name="question_9_question">Un sistema isolato passa spontaneamente da uno stato S1 ad
+        uno stato S2 attraverso un processo reale, cioè irreversibile. In merito all\'entropia, si può affermare che:</string>
+    <string name="question_9_answer1">l\'entropia diminuisce</string>
+    <string name="question_9_answer2">l\'entropia resta costante in quanto il sistema è, per
+        ipotesi, isolato</string>
+    <string name="question_9_answer3">l\'entropia aumenta</string>
+    <string name="question_9_answer4">l\'entropia resta costante se il processo è isobaro</string>
+    <string name="question_9_answer5">l\'entropia resta costante se il processo è isocoro</string>
+    <string name="question_9_explanation"></string>
+    <string name="question_9_translated">false</string>
+
+    <string name="question_10_question">Nel corso di un lento passaggio di stato da acqua a ghiaccio la temperatura:</string>
+    <string name="question_10_answer1">resta costante e l\'acqua cede calore</string>
+    <string name="question_10_answer2">aumenta e l\'acqua assorbe calore</string>
+    <string name="question_10_answer3">diminuisce e l\'acqua assorbe calore</string>
+    <string name="question_10_answer4">aumenta e l\'acqua cede calore</string>
+    <string name="question_10_answer5">diminuisce e l\'acqua cede calore</string>
+    <string name="question_10_explanation"></string>
+    <string name="question_10_translated">false</string>
+
+    <string name="question_11_question">Una macchina termica ideale ha un rendimento del 20%. Se essa assorbe in un ciclo una quantità di calore pari a 50J quale sarà il lavoro compiuto</string>
+    <string name="question_11_answer1">10 J</string>
+    <string name="question_11_answer2">50 J</string>
+    <string name="question_11_answer3">100 J</string>
+    <string name="question_11_answer4">Non si può rispondere dato che non viene data la temperatura della sorgente a temperatura più alta</string>
+    <string name="question_11_answer5">25 J</string>
+    <string name="question_11_explanation"></string>
+    <string name="question_11_translated">false</string>
+
+    <string name="question_12_question">Trasferire calore da un corpo più freddo a uno più caldo:</string>
+    <string name="question_12_answer1">non è mai possibile</string>
+    <string name="question_12_answer2">è possibile solo spendendo lavoro</string>
+    <string name="question_12_answer3">contraddice il principio della termodinamica</string>
+    <string name="question_12_answer4">contraddice il secondo principio della termodinamica</string>
+    <string name="question_12_answer5">può avvenire solo nel vuoto</string>
+    <string name="question_12_explanation"></string>
+    <string name="question_12_translated">false</string>
+
+    <string name="question_13_question">Quando in un recipiente aperto un liquido evapora si osserva, in generale, per il liquido:</string>
+    <string name="question_13_answer1">aumento di temperatura del liquido</string>
+    <string name="question_13_answer2">diminuzione di pressione nel liquido</string>
+    <string name="question_13_answer3">diminuzione di temperatura del liquido</string>
+    <string name="question_13_answer4">aumento di pressione nel liquido</string>
+    <string name="question_13_answer5">aumento di volume del liquido</string>
+    <string name="question_13_explanation">from the Latin Hydragyrum</string>
+    <string name="question_13_translated">false</string>
+
+    <string name="question_14_question">In un gas ideale il prodotto della pressione per il volume:</string>
+    <string name="question_14_answer1">è proporzionale alla temperatura assoluta</string>
+    <string name="question_14_answer2">è indipendente dalla densità</string>
+    <string name="question_14_answer3">raddoppia passando da 10 a 20 °C</string>
+    <string name="question_14_answer4">è sempre costante</string>
+    <string name="question_14_answer5">dipende dalla costante R dei gas perfetti, variabile da gas a gas</string>
+    <string name="question_14_explanation"></string>
+    <string name="question_14_translated">false</string>
+
+    <string name="question_15_question">Quando l\'acqua si trasforma in ghiaccio a pressione
+        atmosferica:</string>
+    <string name="question_15_answer1">viene assorbito calore</string>
+    <string name="question_15_answer2">aumenta la temperatura</string>
+    <string name="question_15_answer3">diminuisce la temperatura</string>
+    <string name="question_15_answer4">si decompone</string>
+    <string name="question_15_answer5">sviluppa calore</string>
+    <string name="question_15_explanation"></string>
+    <string name="question_15_translated">false</string>
+
+    <string name="question_16_question">Durante la compressione isoterma di un gas perfetto:</string>
+    <string name="question_16_answer1">il volume del gas aumenta</string>
+    <string name="question_16_answer2">la temperatura del gas aumenta</string>
+    <string name="question_16_answer3">non vi è scambio di calore con l\'ambiente esterno</string>
+    <string name="question_16_answer4">la temperatura aumenta solo se la compressione è rapida</string>
+    <string name="question_16_answer5">nessuna risposta è corretta</string>
+    <string name="question_16_explanation"></string>
+    <string name="question_16_translated">false</string>
+
+    <string name="question_17_question">Per aumentare la temperatura di un corpo è necessario
+        somministrare una certa quantità di ...1..., che a parità di salto di temperatura è
+        maggiore per i corpi caratterizzati da ...2... più grande. Questa grandezza è uguale al
+        prodotto: "massa del corpo per ...3... del materiale". Durante un passaggio di stato, se
+        il corpo è omogeneo e chimicamente definito, non si hanno variazioni di ...4..., e
+        l\'energia somministrata durante il passaggio di stato prende il nome di ...5... Nel
+        brano precedente sono sottintese e numerate 5 grandezze.
+Associare al numero di riferimento all\'interno del brano la lettera corrispondente alla grandezza
+        sottintesa. Le grandezze sono:</string>
+    <string name="question_17_answer1">calore </string>
+    <string name="question_17_answer2">calore specifico</string>
+    <string name="question_17_answer3">calore latente</string>
+    <string name="question_17_answer4">capacità termica</string>
+    <string name="question_17_answer5">temperatura</string>
+    <string name="question_17_explanation"></string>
+    <string name="question_17_translated">false</string>
+
+    <string name="question_18_question">Il secondo principio della termodinamica esclude la possibilità di:</string>
+    <string name="question_18_answer1">produrre lavoro mediante calore </string>
+    <string name="question_18_answer2">trasformare calore in lavoro</string>
+    <string name="question_18_answer3">trasformare integralmente il calore in lavoro in una trasformazione isoterma</string>
+    <string name="question_18_answer4">trasformare integralmente il calore in lavoro in un processo ciclico</string>
+    <string name="question_18_answer5">trasformare integralmente il calore in lavoro in una trasformazione isobara</string>
+    <string name="question_18_explanation"></string>
+    <string name="question_18_translated">false</string>
+
+    <string name="question_19_question">Il peso specifico di una sostanza: </string>
+    <string name="question_19_answer1">diminuisce con l\'aumentare della temperatura</string>
+    <string name="question_19_answer2">aumenta con l\'aumentare della temperatura</string>
+    <string name="question_19_answer3">è indipendente dalla temperatura</string>
+    <string name="question_19_answer4">dipende dalla forma del corpo in esame</string>
+    <string name="question_19_answer5">è uguale alla densità</string>
+    <string name="question_19_explanation"></string>
+    <string name="question_19_translated">false</string>
+
+    <string name="question_20_question">Durante il passaggio per ebollizione dallo stato liquido allo stato gassoso:</string>
+    <string name="question_20_answer1">la temperatura resta costante</string>
+    <string name="question_20_answer2">il volume resta costante</string>
+    <string name="question_20_answer3">il prodotto della pressione per volume resta costante</string>
+    <string name="question_20_answer4">il rapporto tra pressione e volume resta costante</string>
+    <string name="question_20_answer5">dipende dal tipo di liquido</string>
+    <string name="question_20_explanation"></string>
+    <string name="question_20_translated">false</string>
+
+    <string name="question_21_question">Una trasformazione adiabatica:</string>
+    <string name="question_21_answer1">avviene sempre ad energia interna costante</string>
+    <string name="question_21_answer2">è una trasformazione in cui non vi è scambio di calore tra ambiente e sistema</string>
+    <string name="question_21_answer3">è una trasformazione in cui la temperatura del sistema si mantiene sempre costante</string>
+    <string name="question_21_answer4">è una trasformazione sempre reversibile</string>
+    <string name="question_21_answer5">è una trasformazione in cui il calore assorbito dal sistema è uguale al lavoro da questi prodotto</string>
+    <string name="question_21_explanation"></string>
+    <string name="question_21_translated">false</string>
+
+    <string name="question_22_question">Il primo principio della termodinamica stabilisce che:</string>
+    <string name="question_22_answer1">il lavoro effettuato è sempre uguale al lavoro impiegato</string>
+    <string name="question_22_answer2">l\'energia è una grandezza che si conserva</string>
+    <string name="question_22_answer3">non è possibile che il calore passi spontaneamente da un corpo freddo a un corpo caldo</string>
+    <string name="question_22_answer4">l\'entropia aumenta sempre</string>
+    <string name="question_22_answer5">l\'entalpia aumenta sempre</string>
+    <string name="question_22_explanation"></string>
+    <string name="question_22_translated">false</string>
+
+    <string name="question_23_question">In una trasformazione ciclica reversibile, una macchina termica assorbe 450 kcal da un serbatoio di calore e cede 150 kcal ad un altro serbatoio di calore a temperatura più bassa. Il rendimento del ciclo è:</string>
+    <string name="question_23_answer1">1/3</string>
+    <string name="question_23_answer2">2/3</string>
+    <string name="question_23_answer3">3/5</string>
+    <string name="question_23_answer4">1/4</string>
+    <string name="question_23_answer5">3/4</string>
+    <string name="question_23_explanation"></string>
+    <string name="question_23_translated">false</string>
+
+    <string name="question_24_question">Esiste una temperatura minima al di sotto della quale non è possibile andare. Questa temperatura vale:</string>
+    <string name="question_24_answer1">0 °C</string>
+    <string name="question_24_answer2">- 273 K</string>
+    <string name="question_24_answer3">- 273 °C</string>
+    <string name="question_24_answer4">non esiste una temperatura minima</string>
+    <string name="question_24_answer5">66 K</string>
+    <string name="question_24_explanation"></string>
+    <string name="question_24_translated">false</string>
+
+    <string name="question_25_question">La temperatura di ebollizione dell\'acqua dipende:</string>
+    <string name="question_25_answer1">dalla pressione esterna</string>
+    <string name="question_25_answer2">dal calore specifico dell\'acqua</string>
+    <string name="question_25_answer3">dalla quantità d\'acqua presente</string>
+    <string name="question_25_answer4">dalla densità dell\'acqua</string>
+    <string name="question_25_answer5">dal vapore d\'acqua presente nell\'atmosfera</string>
+    <string name="question_25_explanation"></string>
+    <string name="question_25_translated">false</string>
+
+    <string name="question_26_question">Il primo principio della termodinamica:</string>
+    <string name="question_26_answer1">è un principio di inerzia</string>
+    <string name="question_26_answer2">è un principio di conservazione dell\'energia</string>
+    <string name="question_26_answer3">è valido soltanto per i gas perfetti</string>
+    <string name="question_26_answer4">riguarda solamente le trasformazioni reversibili</string>
+    <string name="question_26_answer5">riguarda solo le trasformazioni reversibili</string>
+    <string name="question_26_explanation"></string>
+    <string name="question_26_translated">false</string>
+
+    <string name="question_27_question">Durante la fusione del ghiaccio alla pressione di 1 atm la temperatura è:</string>
+    <string name="question_27_answer1">di pochissimo superiore a 0 °C</string>
+    <string name="question_27_answer2">assai superiore a 0 °C</string>
+    <string name="question_27_answer3">uguale a 0 °C</string>
+    <string name="question_27_answer4">di poco inferiore a 0 °C</string>
+    <string name="question_27_answer5">uguale a -273 °C</string>
+    <string name="question_27_explanation"></string>
+    <string name="question_27_translated">false</string>
+
+    <string name="question_28_question">La temperatura di ebollizione di un liquido:</string>
+    <string name="question_28_answer1">è una costante fisica assoluta</string>
+    <string name="question_28_answer2">dipende dalla massa del liquido</string>
+    <string name="question_28_answer3">dipende dalla pressione esercitata sul liquido</string>
+    <string name="question_28_answer4">cresce con la densità del liquido</string>
+    <string name="question_28_answer5">dipende dalla viscosità del liquido</string>
+    <string name="question_28_explanation"></string>
+    <string name="question_28_translated">false</string>
+
+    <string name="question_29_question">Le quantità di calore si misurano:</string>
+    <string name="question_29_answer1">solamente in calorie o in kilocalorie</string>
+    <string name="question_29_answer2">oltre che in calorie ed in kilocalorie, anche in watt</string>
+    <string name="question_29_answer3">oltre che in calorie ed in kilocalorie, anche in gradi centigradi</string>
+    <string name="question_29_answer4">oltre che in calorie ed in kilocalorie, anche in joule od in erg</string>
+    <string name="question_29_answer5">oltre in calorie ed in kilocalorie, anche in kelvin</string>
+    <string name="question_29_explanation"></string>
+    <string name="question_29_translated">false</string>
+
+    <string name="question_30_question">L\'energia interna di un gas perfetto è:</string>
+    <string name="question_30_answer1">la somma delle energie cinetiche delle diverse molecole</string>
+    <string name="question_30_answer2">la somma delle energie cinetiche e potenziali delle diverse molecole</string>
+    <string name="question_30_answer3">la qualità di calore posseduta dal gas</string>
+    <string name="question_30_answer4">la temperatura del gas</string>
+    <string name="question_30_answer5">l\'energia potenziale dipendente dall\'interazione tra le
+        molecole di gas</string>
+    <string name="question_30_explanation"></string>
+    <string name="question_30_translated">false</string>
+
+    <string name="question_31_question">In un gas perfetto, a volume costante, se aumenta la temperatura del gas e
+rimane costante il numero delle moli, la sua pressione p:</string>
+    <string name="question_31_answer1">aumenta linearmente con la temperatura assoluta</string>
+    <string name="question_31_answer2">diminuisce linearmente con la temperatura assoluta</string>
+    <string name="question_31_answer3">rimane costante in base alla legge di Boyle</string>
+    <string name="question_31_answer4">aumenta con il quadrato della temperatura assoluta</string>
+    <string name="question_31_answer5">diminuisce con il quadrato della temperatura</string>
+    <string name="question_31_explanation"></string>
+    <string name="question_31_translated">false</string>
+
+    <string name="question_32_question">Affinché un gas perfetto si espanda lentamente mantenendo costante la sua temperatura:</string>
+    <string name="question_32_answer1">occorre sottrarre calore dal gas</string>
+    <string name="question_32_answer2">la pressione deve dimezzarsi</string>
+    <string name="question_32_answer3">occorre fornire calore al gas</string>
+    <string name="question_32_answer4">è una trasformazione impossibile</string>
+    <string name="question_32_answer5">è una trasformazione isovolumica</string>
+    <string name="question_32_explanation"></string>
+    <string name="question_32_translated">false</string>
+
+    <string name="question_33_question">Nel vuoto è possibile la trasmissione del calore?</string>
+    <string name="question_33_answer1">No, in nessun caso</string>
+    <string name="question_33_answer2">Si, ma solo per conduzione</string>
+    <string name="question_33_answer3">Si, ma solo per convezione</string>
+    <string name="question_33_answer4">Si, ma solo per irraggiamento</string>
+    <string name="question_33_answer5">Dipende linearmente dalla differenza delle temperature</string>
+    <string name="question_33_explanation"></string>
+    <string name="question_33_translated">false</string>
+
+    <string name="question_34_question">Il secondo principio della termodinamica stabilisce che:</string>
+    <string name="question_34_answer1">i cambiamenti di stato non dipendono dal tipo di trasformazione</string>
+    <string name="question_34_answer2">è possibile trasformare integralmente calore in lavoro in un processo ciclico</string>
+    <string name="question_34_answer3">non è possibile trasformare integralmente calore in lavoro in un processo ciclico</string>
+    <string name="question_34_answer4">l\'energia si conserva</string>
+    <string name="question_34_answer5">la temperatura si mantiene sempre costante</string>
+    <string name="question_34_explanation"></string>
+    <string name="question_34_translated">false</string>
+
+    <string name="question_35_question">Il calore specifico dell\'acqua è di 1 kcal/kg: pertanto
+        la quantità di calore necessaria per aumentare di 10 °C la temperatura di 10 kg di acqua è uguale a: </string>
+    <string name="question_35_answer1">1 kcal</string>
+    <string name="question_35_answer2">1 cal</string>
+    <string name="question_35_answer3">100 kcal</string>
+    <string name="question_35_answer4">10 cal</string>
+    <string name="question_35_answer5">100 joule</string>
+    <string name="question_35_explanation"></string>
+    <string name="question_35_translated">false</string>
+
+    <string name="question_36_question">Quale quantità di calore viene dissipata in un\'ora da
+        una comune lampada ad incandescenza di 60 watt alimentata dalla rete ENEL?</string>
+    <string name="question_36_answer1">Circa 50 calorie (piccole calorie)</string>
+    <string name="question_36_answer2">Circa 500 calorie (piccole calorie)</string>
+    <string name="question_36_answer3">Circa 5000 calorie (piccole calorie)</string>
+    <string name="question_36_answer4">Circa 50.000 calorie (piccole calorie)</string>
+    <string name="question_36_answer5">Circa 500.000 calorie (piccole calorie)</string>
+    <string name="question_36_explanation"></string>
+    <string name="question_36_translated">false</string>
+
+    <string name="question_37_question">Su quale principio si basa il funzionamento del termometro a mercurio?</string>
+    <string name="question_37_answer1">Sull\'aumento della densità del mercurio all\'aumentare
+        della temperatura</string>
+    <string name="question_37_answer2">Sull\'aumento del volume del mercurio all\'aumentare della
+        temperatura</string>
+    <string name="question_37_answer3">Sull\'aumento della massa del mercurio all\'aumentare della
+        temperatura</string>
+    <string name="question_37_answer4">Sulla diminuzione della viscosità del mercurio
+        all\'aumentare della temperatura</string>
+    <string name="question_37_answer5">Sul fenomeno di capillarità</string>
+    <string name="question_37_explanation"></string>
+    <string name="question_37_translated">false</string>
+
+    <string name="question_38_question">Rispetto al livello del mare, in montagna l\'acqua:</string>
+    <string name="question_38_answer1">bolle a una temperatura maggiore</string>
+    <string name="question_38_answer2">bolle alla stessa temperatura</string>
+    <string name="question_38_answer3">bolle a una temperatura minore</string>
+    <string name="question_38_answer4">non bolle</string>
+    <string name="question_38_answer5">si solidifica sempre</string>
+    <string name="question_38_explanation"></string>
+    <string name="question_38_translated">false</string>
+
+    <string name="question_39_question">Comprimendo un gas perfetto in un cilindro isolato
+        termicamente l\'energia interna del gas:</string>
+    <string name="question_39_answer1">aumenta </string>
+    <string name="question_39_answer2">diminuisce </string>
+    <string name="question_39_answer3">rimane la stessa</string>
+    <string name="question_39_answer4">è definita solo per una trasformazione reversibile</string>
+    <string name="question_39_answer5">è definita solo per una trasformazione irreversibile</string>
+    <string name="question_39_explanation"></string>
+    <string name="question_39_translated">false</string>
+
+    <string name="question_40_question">La quantità di calore che occorre fornire a 200 g di
+        acqua per innalzarne la temperatura da 20 a 40 gradi è all\'incirca pari a:</string>
+    <string name="question_40_answer1">400 cal</string>
+    <string name="question_40_answer2">200 kcal</string>
+    <string name="question_40_answer3">4000 cal</string>
+    <string name="question_40_answer4">40.000 joule</string>
+    <string name="question_40_answer5">400.000 joule</string>
+    <string name="question_40_explanation"></string>
+    <string name="question_40_translated">false</string>
+
+    <string name="question_41_question">Due bombole A e B hanno lo stesso volume: A contiene un gas perfetto monoatomico, B un gas perfetto biatomico. I due gas hanno la stessa pressione e lo stesso numero di moli. Le temperature dei due gas sono:</string>
+    <string name="question_41_answer1">uguali</string>
+    <string name="question_41_answer2">la temperatura del gas biatomico è il doppio di quella del gas monoatomico</string>
+    <string name="question_41_answer3">è maggiore la temperatura del gas monoatomic</string>
+    <string name="question_41_answer4">la temperatura del gas biatomico è 4 volte quella del gas monoatomic</string>
+    <string name="question_41_answer5">la temperatura del gas biatomico è 16 volte quella del gas monoatomico</string>
+    <string name="question_41_explanation"></string>
+    <string name="question_41_translated">false</string>
+
+    <string name="question_42_question">Quando l\'acqua pura bolle a pressione costante, con il
+        passare del tempo, la sua temperatura:</string>
+    <string name="question_42_answer1">va sempre aumentando</string>
+    <string name="question_42_answer2">va sempre diminuendo</string>
+    <string name="question_42_answer3">si mantiene costante</string>
+    <string name="question_42_answer4">dipende dal volume del liquido</string>
+    <string name="question_42_answer5">è uguale a quella dell\'ambiente esterno</string>
+    <string name="question_42_explanation"></string>
+    <string name="question_42_translated">false</string>
+
+    <string name="question_43_question">Quando due corpi sono in equilibrio termico essi hanno:</string>
+    <string name="question_43_answer1">la stessa quantità di calore</string>
+    <string name="question_43_answer2">la stessa energia interna</string>
+    <string name="question_43_answer3">la stessa temperatura</string>
+    <string name="question_43_answer4">la stessa capacità termica</string>
+    <string name="question_43_answer5">lo stesso calore specifico</string>
+    <string name="question_43_explanation"></string>
+    <string name="question_43_translated">false</string>
+
+    <string name="question_44_question">La costante R dell\'equazione di stato dei gas (PV = nRT)
+        è:</string>
+    <string name="question_44_answer1">un numero adimensionale</string>
+    <string name="question_44_answer2">un numero variabile con T </string>
+    <string name="question_44_answer3">dipende dal tipo di unità di misura prescelto</string>
+    <string name="question_44_answer4">un numero variabile con P, T e V</string>
+    <string name="question_44_answer5">un numero intero</string>
+    <string name="question_44_explanation"></string>
+    <string name="question_44_translated">false</string>
+
+    <string name="question_45_question">La temperatura di un corpo è un "indice":</string>
+    <string name="question_45_answer1">del calore posseduto dal corpo</string>
+    <string name="question_45_answer2">dell\'energia cinetica media delle particelle del
+        corpo</string>
+    <string name="question_45_answer3">del calore scambiato dal corpo</string>
+    <string name="question_45_answer4">della capacità termica del corpo</string>
+    <string name="question_45_answer5">del calore specifico del corpo</string>
+    <string name="question_45_explanation"></string>
+    <string name="question_45_translated">false</string>
+
+    <string name="question_46_question">Un cilindro con un pistone contiene N moli di un gas perfetto alla temperatura T. Se la temperatura raddoppia, il numero di moli sarà:</string>
+    <string name="question_46_answer1">2 N</string>
+    <string name="question_46_answer2">1 N</string>
+    <string name="question_46_answer3">N/2</string>
+    <string name="question_46_answer4">(1/273) N</string>
+    <string name="question_46_answer5">(1/100) N</string>
+    <string name="question_46_explanation"></string>
+    <string name="question_46_translated">false</string>
+
+    <string name="question_47_question">Quando un gas perfetto a pressione P e volume V subisce una espansione isoterma, si può affermare che:</string>
+    <string name="question_47_answer1">P = cost</string>
+    <string name="question_47_answer2">V = cost</string>
+    <string name="question_47_answer3">PV = cost</string>
+    <string name="question_47_answer4">P/V = cost</string>
+    <string name="question_47_answer5">V/P = cost</string>
+    <string name="question_47_explanation"></string>
+    <string name="question_47_translated">false</string>
+
+    <string name="question_48_question">Due recipienti di uguale volume, il primo dei quali è alla temperatura di 127 °C mentre il secondo è a 27 °C, contengono uno stesso tipo di gas trattabile come gas perfetto. In entrambi i recipienti il gas esercita la stessa pressione.
+In tale stato, il rapporto R tra il numero di moli di gas nel recipiente a più alta temperatura e il numero di moli di gas nel recipiente a temperatura minore vale:
+</string>
+    <string name="question_48_answer1">27/127</string>
+    <string name="question_48_answer2">1</string>
+    <string name="question_48_answer3">4/3</string>
+    <string name="question_48_answer4">3/4</string>
+    <string name="question_48_answer5">1/2</string>
+    <string name="question_48_explanation"></string>
+    <string name="question_48_translated">false</string>
+
+    <string name="question_49_question">Comprimendo un gas perfetto in un cilindro isolato
+        termicamente l\'energia interna del gas:</string>
+    <string name="question_49_answer1">aumenta</string>
+    <string name="question_49_answer2">diminuisce</string>
+    <string name="question_49_answer3">rimane la stessa</string>
+    <string name="question_49_answer4">si annulla</string>
+    <string name="question_49_answer5">prima aumenta poi diminuisce</string>
+    <string name="question_49_explanation"></string>
+    <string name="question_49_translated">false</string>
+
+    <string name="question_50_question">La pressione è la grandezza fisica definita come:</string>
+    <string name="question_50_answer1">il rapporto fra la componente normale della forza
+        esercitata su di una superficie e l\'area della superficie stessa</string>
+    <string name="question_50_answer2">la forza esercitata su una determinata superficie</string>
+    <string name="question_50_answer3">la forza normale di un N esercitata sulla superficie di 1 m2</string>
+    <string name="question_50_answer4">la componente normale della forza esercitata su di una determinata superficie</string>
+    <string name="question_50_answer5">il rapporto tra la superficie e la forza</string>
+    <string name="question_50_explanation"></string>
+    <string name="question_50_translated">false</string>
+
+    <string name="question_51_question">Il ciclo di Carnot è costituito da una serie di trasformazioni di stato che, fissate le temperature dei serbatoi di calore:</string>
+    <string name="question_51_answer1">possono essere compiute soltanto da un gas perfetto</string>
+    <string name="question_51_answer2">consentono di calcolare con una formula molto semplice il rendimento di macchine ideali</string>
+    <string name="question_51_answer3">possono essere percorse soltanto in verso orario</string>
+    <string name="question_51_answer4">portano il sistema da una condizione di minore ad una di maggiore entropia</string>
+    <string name="question_51_answer5">possono essere effettuate solo cambiando la pressione, ma non il volume</string>
+    <string name="question_51_explanation"></string>
+    <string name="question_51_translated">false</string>
+
+    <string name="question_52_question">Diminuendo la pressione esterna esercitata sulla superficie libera di un liquido, la temperatura di ebollizione:</string>
+    <string name="question_52_answer1">aumenta</string>
+    <string name="question_52_answer2">diminuisce</string>
+    <string name="question_52_answer3">resta costante</string>
+    <string name="question_52_answer4">dipende dal liquido</string>
+    <string name="question_52_answer5">dipende dalla massa del liquido</string>
+    <string name="question_52_explanation"></string>
+    <string name="question_52_translated">false</string>
+
+    <string name="question_53_question">Una sfera di alluminio, avente massa 0,5 kg, calore
+        specifico 0,21 kCal/kg °C, densità 2,7 g/cm3 e alla temperatura di 280 K, viene immersa in 150 kg di acqua. La temperatura finale dell\'acqua:</string>
+    <string name="question_53_answer1">aumenta di 3 K</string>
+    <string name="question_53_answer2">aumenta di 3 °C</string>
+    <string name="question_53_answer3">rimane invariata</string>
+    <string name="question_53_answer4">non può essere determinata con i soli dati forniti</string>
+    <string name="question_53_answer5">aumenta di 0,5 K</string>
+    <string name="question_53_explanation"></string>
+    <string name="question_53_translated">false</string>
+
+    <string name="question_54_question">È possibile comprimere adiabaticamente un gas perfetto a temperatura costante?</string>
+    <string name="question_54_answer1">Sì, e il lavoro compiuto dal gas sarà positivo</string>
+    <string name="question_54_answer2">Sì, e il lavoro compiuto dal gas sarà negativo</string>
+    <string name="question_54_answer3">Sì, e il lavoro compiuto dal gas sarà nullo</string>
+    <string name="question_54_answer4">No, non è possibile</string>
+    <string name="question_54_answer5">Sì, e il lavoro compiuto dall\'esterno sul gas sarà
+        nullo</string>
+    <string name="question_54_explanation"></string>
+    <string name="question_54_translated">false</string>
+
+    <string name="question_55_question">Nell\'esperimento del mulinello di Joule si osserva
+        che:</string>
+    <string name="question_55_answer1">il calore si conserva</string>
+    <string name="question_55_answer2">il lavoro può essere totalmente convertito in calore</string>
+    <string name="question_55_answer3">il calore può essere totalmente convertito in lavoro</string>
+    <string name="question_55_answer4">il calore si conserva meglio del lavoro</string>
+    <string name="question_55_answer5">il calore non può essere trasformato in lavoro</string>
+    <string name="question_55_explanation"></string>
+    <string name="question_55_translated">false</string>
+
+    <string name="question_56_question">Per fondere un grammo di sostanza, alla temperatura di
+        fusione, occorre fornire una quantità di calore pari:</string>
+    <string name="question_56_answer1">al calore specifico</string>
+    <string name="question_56_answer2">al calore latente di fusione</string>
+    <string name="question_56_answer3">alla capacità termica</string>
+    <string name="question_56_answer4">alla temperatura</string>
+    <string name="question_56_answer5">all\'energia interna della sostanza</string>
+    <string name="question_56_explanation"></string>
+    <string name="question_56_translated">false</string>
+
+    <string name="question_57_question">Il calore specifico di una sostanza è, per definizione:</string>
+    <string name="question_57_answer1">il calore contenuto nell\'unità di volume di tale
+        sostanza</string>
+    <string name="question_57_answer2">il calore necessario a far passare l\'unità di massa della
+        sostanza dallo stato solido allo stato liquido</string>
+    <string name="question_57_answer3">la temperatura della sostanza</string>
+    <string name="question_57_answer4">la quantità di calore che deve essere somministrata
+        all\'unità di massa della sostanza per aumentarne la temperatura di 1 °C</string>
+    <string name="question_57_answer5">la quantità di calore che deve essere somministrata
+        all\'unità di massa della sostanza per farla passare da solido a liquido</string>
+    <string name="question_57_explanation"></string>
+    <string name="question_57_translated">false</string>
+
+    <string name="question_58_question">Una miscela gassosa, che contiene il 20% di azoto, si
+        trova alla pressione di 2 atmosfere. La pressione parziale dell\'azoto vale:</string>
+    <string name="question_58_answer1">2 atmosfere</string>
+    <string name="question_58_answer2">152 mmHg</string>
+    <string name="question_58_answer3">1 atmosfera</string>
+    <string name="question_58_answer4">304 mmHg</string>
+    <string name="question_58_answer5">0,1 atmosfere</string>
+    <string name="question_58_explanation"></string>
+    <string name="question_58_translated">false</string>
+
+    <string name="question_59_question">La differenza tra gas e vapore consiste nel fatto che il vapore:</string>
+    <string name="question_59_answer1">è meno denso del gas</string>
+    <string name="question_59_answer2">è bianco, il gas è trasparente</string>
+    <string name="question_59_answer3">può essere liquefatto per compressione</string>
+    <string name="question_59_answer4">non è un aeriforme</string>
+    <string name="question_59_answer5">conduce la corrente meglio del gas</string>
+    <string name="question_59_explanation"></string>
+    <string name="question_59_translated">false</string>
+
+    <string name="question_60_question">Un sistema termodinamico riceve dall\'esterno una
+        quantità di calore pari a 4 J e contemporaneamente compie un lavoro di uguale entità
+        sull\'esterno. La variazione di energia interna del sistema vale:</string>
+    <string name="question_60_answer1">+ 8 J</string>
+    <string name="question_60_answer2">- 4 J</string>
+    <string name="question_60_answer3">0</string>
+    <string name="question_60_answer4">+ 4 J</string>
+    <string name="question_60_answer5">+ 16 J</string>
+    <string name="question_60_explanation"></string>
+    <string name="question_60_translated">false</string>
+
+    <string name="question_61_question">Per innalzare la temperatura di un corpo:</string>
+    <string name="question_61_answer1">non è necessario fornire calore al corpo</string>
+    <string name="question_61_answer2">è necessario fare lavoro sul corpo</string>
+    <string name="question_61_answer3">è necessario fornire calore al corpo</string>
+    <string name="question_61_answer4">è necessario mettere il corpo in contatto termico con un corpo più caldo</string>
+    <string name="question_61_answer5">nesuna delle risposte precedenti</string>
+    <string name="question_61_explanation"></string>
+    <string name="question_61_translated">false</string>
+
+    <string name="question_62_question">Per scaldare di un grado centigrado 1000 g di sostanza A è necessaria la stessa quantità di calore che serve per innalzare di un grado centigrado 2000 grammi di sostanza B. Se ne deduce che il calore specifico di B, rispetto al calore specifico di A, è:</string>
+    <string name="question_62_answer1">uguale</string>
+    <string name="question_62_answer2">il doppio</string>
+    <string name="question_62_answer3">la metà</string>
+    <string name="question_62_answer4">quattro volte maggiore</string>
+    <string name="question_62_answer5">i dati non sono sufficienti</string>
+    <string name="question_62_explanation"></string>
+    <string name="question_62_translated">false</string>
+
+    <string name="question_63_question">Comprimendo reversibilmente e adiabaticamente un gas perfetto la sua temperatura:</string>
+    <string name="question_63_answer1">rimane costante, perché non c\'è scambio di calore con
+        l\'esterno</string>
+    <string name="question_63_answer2">aumenta, perché aumenta la sua energia interna</string>
+    <string name="question_63_answer3">diminuisce, perché diminuisce il volume</string>
+    <string name="question_63_answer4">rimane costante perché in un gas perfetto l\'energia
+        potenziale è nulla</string>
+    <string name="question_63_answer5">cresce in modo inversamente proporzionale alla pressione</string>
+    <string name="question_63_explanation"></string>
+    <string name="question_63_translated">false</string>
+
+    <string name="question_64_question">Quale dei seguenti processi caratterizza l\'effetto
+        termoregolativo della sudorazione?</string>
+    <string name="question_64_answer1">Conduzione</string>
+    <string name="question_64_answer2">Evaporazione</string>
+    <string name="question_64_answer3">Irraggiamento</string>
+    <string name="question_64_answer4">Convezione</string>
+    <string name="question_64_answer5">Tutti i precedenti</string>
+    <string name="question_64_explanation"></string>
+    <string name="question_64_translated">false</string>
+
+    <string name="question_65_question">Un sub è immerso ad una profondità di 50 m. A quale pressione è, approssimativamente, sottoposto?</string>
+    <string name="question_65_answer1">1 atm</string>
+    <string name="question_65_answer2">5 atm</string>
+    <string name="question_65_answer3">6 atm</string>
+    <string name="question_65_answer4">50 atm</string>
+    <string name="question_65_answer5">0,5 atm</string>
+    <string name="question_65_explanation"></string>
+    <string name="question_65_translated">false</string>
+
+    <string name="question_66_question">In quale processo di propagazione del calore vi è trasferimento di materia?</string>
+    <string name="question_66_answer1">Conduzione</string>
+    <string name="question_66_answer2">Convezione</string>
+    <string name="question_66_answer3">Irraggiamento</string>
+    <string name="question_66_answer4">In nessuno dei casi precedenticu</string>
+    <string name="question_66_answer5">Evaporazione</string>
+    <string name="question_66_explanation"></string>
+    <string name="question_66_translated">false</string>
+
+    <string name="question_67_question">Quale di queste affermazioni è sicuramente FALSA? La temperatura di un corpo:</string>
+    <string name="question_67_answer1">supera i 5000 °C</string>
+    <string name="question_67_answer2">scende al di sotto dei 50 K</string>
+    <string name="question_67_answer3">scende al di sotto dei 250 °C</string>
+    <string name="question_67_answer4">supera i 1000 K</string>
+    <string name="question_67_answer5">supera i 100.000 °C</string>
+    <string name="question_67_explanation"></string>
+    <string name="question_67_translated">false</string>
+
+    <string name="question_68_question">Per effetto della dilatazione termica di un corpo si ha la variazione:</string>
+    <string name="question_68_answer1">della densità e della massa del corpo</string>
+    <string name="question_68_answer2">della densità e del volume del corpo</string>
+    <string name="question_68_answer3">del volume e della massa del corpo</string>
+    <string name="question_68_answer4">del prodotto tra densità e volume del corpo</string>
+    <string name="question_68_answer5">del solo volume del corpo, mentre massa e densità non variano</string>
+    <string name="question_68_explanation"></string>
+    <string name="question_68_translated">false</string>
+
+    <string name="question_69_question">1020 atomi di gas sono contenuti in un volume di 1 metro
+        cubo. All\'aumentare della temperatura aumenta la pressione del gas in quanto:</string>
+    <string name="question_69_answer1">il gas tende alla condizione di gas perfetto</string>
+    <string name="question_69_answer2">il gas si allontana dalla condizione di gas perfetto</string>
+    <string name="question_69_answer3">l\'energia cinetica degli atomi aumenta</string>
+    <string name="question_69_answer4">l\'energia interna non varia</string>
+    <string name="question_69_answer5">nessuna delle risposte precedenti</string>
+    <string name="question_69_explanation"></string>
+    <string name="question_69_translated">false</string>
+
+    <string name="question_70_question">Il rendimento di una macchina termica si esprime:</string>
+    <string name="question_70_answer1">in calorie</string>
+    <string name="question_70_answer2">in joule</string>
+    <string name="question_70_answer3">in chilowattora</string>
+    <string name="question_70_answer4">con un numero puro</string>
+    <string name="question_70_answer5">in erg</string>
+    <string name="question_70_explanation"></string>
+    <string name="question_70_translated">false</string>
+
+    <string name="question_71_question">La prima legge della termodinamica è:</string>
+    <string name="question_71_answer1">valida solo per i gas perfetti</string>
+    <string name="question_71_answer2">valida solo per i gas reali</string>
+    <string name="question_71_answer3">valida solo in assenza di attrito</string>
+    <string name="question_71_answer4">nessuna delle precedenti risposte è corretta</string>
+    <string name="question_71_answer5">valida solo per i liquidi perfetti</string>
+    <string name="question_71_explanation"></string>
+    <string name="question_71_translated">false</string>
+
+    <string name="question_72_question">Due recipienti identici, contenenti gas elio e collegati attraverso ad un lungo tubicino, sono mantenuti a temperatura diverse. Si può affermare:</string>
+    <string name="question_72_answer1">nei due recipienti vi è una stessa quantità di elio perché vi è una stessa pressione</string>
+    <string name="question_72_answer2">essendo diversa la temperatura, la pressione nei due recipienti è diversa</string>
+    <string name="question_72_answer3">il recipiente a temperatura maggiore contiene una maggiore quantità di elio</string>
+    <string name="question_72_answer4">il recipiente a temperatura maggiore contiene una minore quantità di elio</string>
+    <string name="question_72_answer5">nessuna delle risposte precedenti</string>
+    <string name="question_72_explanation"></string>
+    <string name="question_72_translated">false</string>
+
+    <string name="question_73_question">Usando velocemente una pompa da bicicletta si nota un aumento della temperatura della pompa. Ciò è dovuto:</string>
+    <string name="question_73_answer1">all\'attrito dello stantuffo</string>
+    <string name="question_73_answer2">ad un processo di compressione quasi adiabatico</string>
+    <string name="question_73_answer3">ad un processo di compressione quasi isotermo</string>
+    <string name="question_73_answer4">ad un processo di compressione quasi isovolumico</string>
+    <string name="question_73_answer5">a cause diverse da quelle elencate</string>
+    <string name="question_73_explanation"></string>
+    <string name="question_73_translated">false</string>
+
+    <string name="question_74_question">Il ghiaccio galleggia nell\'acqua perché:</string>
+    <string name="question_74_answer1">la densità del ghiaccio è minore di quella
+        dell\'acqua</string>
+    <string name="question_74_answer2">il ghiaccio passando da 0 a 4 °C, aumenta di volume</string>
+    <string name="question_74_answer3">l\'unità di massa (per esempio 1 kg) di ghiaccio pesa di
+        meno dell\'unità di massa dell\'acqua</string>
+    <string name="question_74_answer4">i solidi sono normalmente meno densi dei liquidi</string>
+    <string name="question_74_answer5">il peso specifico del ghiaccio è uguale a quello
+        dell\'acqua</string>
+    <string name="question_74_explanation"></string>
+    <string name="question_74_translated">false</string>
+
+    <string name="question_75_question">Da quale delle seguenti grandezze o caratteristiche è indipendente la temperatura di ebollizione di un liquido?</string>
+    <string name="question_75_answer1">Altitudine</string>
+    <string name="question_75_answer2">Temperatura esterna</string>
+    <string name="question_75_answer3">Pressione esterna</string>
+    <string name="question_75_answer4">Composizione del liquido</string>
+    <string name="question_75_answer5">Concentrazione del liquido</string>
+    <string name="question_75_explanation"></string>
+    <string name="question_75_translated">false</string>
+
+    <string name="question_76_question">Dire che un corpo possiede energia implica necessariamente che:</string>
+    <string name="question_76_answer1">il corpo debba trovarsi ad una certa altezza h diversa da 0</string>
+    <string name="question_76_answer2">il corpo sia soggetto all\'azione di almeno una
+        forza</string>
+    <string name="question_76_answer3">il corpo non possa essere fermo</string>
+    <string name="question_76_answer4">nessuna delle affermazioni precedenti è corretta</string>
+    <string name="question_76_answer5">il corpo possieda solo del calore</string>
+    <string name="question_76_explanation"></string>
+    <string name="question_76_translated">false</string>
+
+    <string name="question_77_question">Con una trasformazione isobara un gas ideale, inizialmente a 27 °C, è portato a 327 °C; se il volume iniziale era di 2 litri, quello finale è:</string>
+    <string name="question_77_answer1">4 dm3</string>
+    <string name="question_77_answer2">6 litri</string>
+    <string name="question_77_answer3">4 m3</string>
+    <string name="question_77_answer4">2,1 litri</string>
+    <string name="question_77_answer5">300 litri</string>
+    <string name="question_77_explanation"></string>
+    <string name="question_77_translated">false</string>
+
+    <string name="question_78_question">Un corpo subisce una dilatazione termica. Cosa avviene della sua densità?</string>
+    <string name="question_78_answer1">Aumenta al diminuire della massa</string>
+    <string name="question_78_answer2">Aumenta con l\'aumentare della temperatura</string>
+    <string name="question_78_answer3">Aumenta all\'aumentare del volume </string>
+    <string name="question_78_answer4">Diminuisce all\'aumentare della temperatura</string>
+    <string name="question_78_answer5">Resta costante, qualunque sia l\'aumento di
+        temperatura</string>
+    <string name="question_78_explanation"></string>
+    <string name="question_78_translated">false</string>
+
+    <string name="question_79_question">In generale, per un dato aumento di temperatura si dilatano di più i solidi o i liquidi?</string>
+    <string name="question_79_answer1">I liquidi</string>
+    <string name="question_79_answer2">I solidi</string>
+    <string name="question_79_answer3">Non vi è differenza tra i due tipi di materiale</string>
+    <string name="question_79_answer4">I liquidi con densità inferiore a quella dell\'acqua</string>
+    <string name="question_79_answer5">a volte alcuni solidi altre alcuni liquidi</string>
+    <string name="question_79_explanation"></string>
+    <string name="question_79_translated">false</string>
+
+    <string name="question_80_question">Un recipiente a pareti rigide (volume costante) contiene due moli di gas perfetto in un volume V0 a pressione P0 e temperatura T0. Se iniettiamo nel recipiente altre due moli di gas perfetto operando in modo che la temperatura dello stato finale di equilibrio sia uguale a quello iniziale, la pressione finale sarà:</string>
+    <string name="question_80_answer1">Pf = 2 P0</string>
+    <string name="question_80_answer2">Pf = P0/2</string>
+    <string name="question_80_answer3">Pf = 4 P0</string>
+    <string name="question_80_answer4">Pf = P0</string>
+    <string name="question_80_answer5">Pf = 3 P0</string>
+    <string name="question_80_explanation"></string>
+    <string name="question_80_translated">false</string>
+
+    <string name="question_81_question">Per portare 20 g di rame dalla temperatura di 20 °C alla temperatura di 70 °C occorrono 92 calorie. Qual è il calore specifico del rame?</string>
+    <string name="question_81_answer1">0,092 cal/(g °C)</string>
+    <string name="question_81_answer2">0,23 cal/(g °C) </string>
+    <string name="question_81_answer3">92 kcal g/°C</string>
+    <string name="question_81_answer4">36,8 cal g/°C</string>
+    <string name="question_81_answer5">92 cal g/°C</string>
+    <string name="question_81_explanation"></string>
+    <string name="question_81_translated">false</string>
+
+    <string name="question_82_question">Aumentando la temperatura di un gas, la velocità media delle molecole del gas stesso contenuto in un recipiente:</string>
+    <string name="question_82_answer1">aumenta</string>
+    <string name="question_82_answer2">diminuisce</string>
+    <string name="question_82_answer3">rimane inalterata</string>
+    <string name="question_82_answer4">dipende dal volume del recipiente</string>
+    <string name="question_82_answer5">dipende dal numero di molecole</string>
+    <string name="question_82_explanation"></string>
+    <string name="question_82_translated">false</string>
+
+    <string name="question_83_question">Un corpo A è a temperatura maggiore di un corpo B. Ciò significa che:</string>
+    <string name="question_83_answer1">A contiene più energia di B</string>
+    <string name="question_83_answer2">le particelle di cui A è composto sono, in media, più veloci di quelle di B</string>
+    <string name="question_83_answer3">la massa di A è maggiore di quella di B</string>
+    <string name="question_83_answer4">si è fornito più calore ad A che a B</string>
+    <string name="question_83_answer5">in nessun caso si può trasferire calore da B ad A</string>
+    <string name="question_83_explanation"></string>
+    <string name="question_83_translated">false</string>
+
+    <string name="question_84_question">Quale tra le seguenti condizioni climatiche favorisce
+        maggiormente l\'evaporazione dell\'acqua?</string>
+    <string name="question_84_answer1">Freddo umido</string>
+    <string name="question_84_answer2">Freddo secco</string>
+    <string name="question_84_answer3">Caldo umido</string>
+    <string name="question_84_answer4">Caldo secco</string>
+    <string name="question_84_answer5">Caldo parzialmente umido</string>
+    <string name="question_84_explanation"></string>
+    <string name="question_84_translated">false</string>
+
+    <string name="question_85_question">Per i gas perfetti il valore del calore specifico cambia
+        a seconda del tipo di trasformazione subita dal gas durante lo scambio termico. In
+        particolare, per Cp e Cv (rispettivamente calore specifico a pressione costante e calore
+        specifico a volume costante) vale:</string>
+    <string name="question_85_answer1">Cp = Cv</string>
+    <string name="question_85_answer2">Cp + Cv = costante</string>
+    <string name="question_85_answer3">Cp - Cv = costante</string>
+    <string name="question_85_answer4">Cp . Cv = costante</string>
+    <string name="question_85_answer5">Cp/Cv = 1</string>
+    <string name="question_85_explanation"></string>
+    <string name="question_85_translated">false</string>
+
+    <string name="question_86_question">Si vuole realizzare una trasformazione termodinamica
+        ciclica il cui unico risultato sia quello di convertire in lavoro il calore sottratto ad
+        un\'unica sorgente termica. La trasformazione:</string>
+    <string name="question_86_answer1">è possibile solo se la trasformazione è rigorosamente isoterma</string>
+    <string name="question_86_answer2">è possibile solo se la trasformazione è adiabatica</string>
+    <string name="question_86_answer3">non è mai possibile</string>
+    <string name="question_86_answer4">è possibile in ogni caso</string>
+    <string name="question_86_answer5">la trasformazione è isovolumica</string>
+    <string name="question_86_explanation"></string>
+    <string name="question_86_translated">false</string>
+
+    <string name="question_87_question">Per i gas quali sono considerate le condizioni standard?</string>
+    <string name="question_87_answer1">275 K e 760 torr</string>
+    <string name="question_87_answer2">100 °C e 1 atm</string>
+    <string name="question_87_answer3">0 °C e 1 atm</string>
+    <string name="question_87_answer4">273 K e 780 torr</string>
+    <string name="question_87_answer5">0 °C e 2 atm</string>
+    <string name="question_87_explanation"></string>
+    <string name="question_87_translated">false</string>
+
+    <string name="question_88_question">La trasmissione del calore per conduzione, a parità di tutte le altre condizioni, avviene più facilmente attraverso:</string>
+    <string name="question_88_answer1">aria</string>
+    <string name="question_88_answer2">materiale poroso</string>
+    <string name="question_88_answer3">legno</string>
+    <string name="question_88_answer4">alluminio</string>
+    <string name="question_88_answer5">amianto</string>
+    <string name="question_88_explanation"></string>
+    <string name="question_88_translated">false</string>
+
+    <string name="question_89_question">Un recipiente a pareti rigide (volume costante) e
+        adiabatiche, con base rigida, buona conduttrice del calore, contiene una certa quantità
+        di gas perfetto in equilibrio termodinamico, a pressione atmosferica. Nel coperchio
+        bloccato del recipiente è inserita una valvola che si apre quando la pressione del gas
+        supera la pressione atmosferica facendo uscire gas all\'esterno. Se riscaldiamo il gas
+        ponendo il recipiente su un fornello, che relazione c\'è tra la temperatura del gas e il
+        numero n di modi di gas che si trovano all\'interno del recipiente?</string>
+    <string name="question_89_answer1">Sono direttamente proporzionali</string>
+    <string name="question_89_answer2">Sono inversamente proporzionali</string>
+    <string name="question_89_answer3">Non dipendono l\'una dall\'altra</string>
+    <string name="question_89_answer4">Sono legate dalla relazione T = n</string>
+    <string name="question_89_answer5">Sono legate dalla relazione T = n2</string>
+    <string name="question_89_explanation"></string>
+    <string name="question_89_translated">false</string>
+
+    <string name="question_90_question">L\'impossibilità di convertire completamente e in maniera
+        ciclica il calore in un\'altra forma di energia è stabilita:</string>
+    <string name="question_90_answer1">dal primo principio della termodinamica</string>
+    <string name="question_90_answer2">dal principio dell\'equilibrio mobile</string>
+    <string name="question_90_answer3">dal principio di conservazione della quantità di moto</string>
+    <string name="question_90_answer4">dal secondo principio della termodinamica</string>
+    <string name="question_90_answer5">dall\'equivalenza tra materia ed energia</string>
+    <string name="question_90_explanation"></string>
+    <string name="question_90_translated">false</string>
+
+    <string name="question_91_question">Si mettono a contatto due corpi con temperature T1 e T2
+        (T1 &lt; T2). Per la temperatura finale di equilibrio Tf vale, in generale:</string>
+    <string name="question_91_answer1">T1 &lt; Tf &lt; T2</string>
+    <string name="question_91_answer2">Tf = T1 + T2</string>
+    <string name="question_91_answer3">Tf = (T1 + T2) . 2</string>
+    <string name="question_91_answer4">Tf = (T1 + T2)/2</string>
+    <string name="question_91_answer5">Tf = (T1 . T2)/2</string>
+    <string name="question_91_explanation"></string>
+    <string name="question_91_translated">false</string>
+
+    <string name="question_92_question">Due masse uguali d\'acqua hanno rispettivamente
+        temperature di 60 e 20 °C. Mescolandole in assenza di scambi termici con l\'esterno la
+        temperatura finale di equilibrio sarà:</string>
+    <string name="question_92_answer1">80 °C</string>
+    <string name="question_92_answer2">40 °C</string>
+    <string name="question_92_answer3">30 °C</string>
+    <string name="question_92_answer4">occorre conoscere il valore della massa totale</string>
+    <string name="question_92_answer5">occorre conoscere il calore specifico</string>
+    <string name="question_92_explanation"></string>
+    <string name="question_92_translated">false</string>
+
+    <string name="question_93_question">Se si asporta il 10% della massa d\'acqua contenuta in un
+        recipiente isolato, la temperatura dell\'acqua che rimane in un recipiente:</string>
+    <string name="question_93_answer1">non subisce variazioni</string>
+    <string name="question_93_answer2">diminuisce del 10%</string>
+    <string name="question_93_answer3">aumenta del 10%</string>
+    <string name="question_93_answer4">diminuisce di una frazione che dipende dalla temperatura e dalla massa iniziali</string>
+    <string name="question_93_answer5">bisogna conoscere il calore specifico dell\'acqua</string>
+    <string name="question_93_explanation"></string>
+    <string name="question_93_translated">false</string>
+
+    <string name="question_94_question">È possibile far passare il calore da un corpo più freddo a un corpo più caldo?</string>
+    <string name="question_94_answer1">No, mai</string>
+    <string name="question_94_answer2">Sì, se si spende energia nel processo</string>
+    <string name="question_94_answer3">Sì, se il corpo più freddo ha un calore specifico più elevato</string>
+    <string name="question_94_answer4">Sì, se il corpo più caldo ha un calore specifico più elevato</string>
+    <string name="question_94_answer5">Sì, se il corpo freddo è un metallo e quello caldo un liquido</string>
+    <string name="question_94_explanation"></string>
+    <string name="question_94_translated">false</string>
+
+    <string name="question_95_question">Mescolando un kg di ghiaccio con un kg di acqua bollente
+        (calore di fusione cf = 80 kcal/kg) si ottiene all\'equilibrio acqua a:</string>
+    <string name="question_95_answer1">90 °C</string>
+    <string name="question_95_answer2">50 °C</string>
+    <string name="question_95_answer3">20 °C</string>
+    <string name="question_95_answer4">10 °C</string>
+    <string name="question_95_answer5">0 °C</string>
+    <string name="question_95_explanation"></string>
+    <string name="question_95_translated">false</string>
+
+    <string name="question_96_question">Mettendo in contatto due corpi a temperature diverse si
+        raggiunge l\'equilibrio termico. Possiamo dire che:</string>
+    <string name="question_96_answer1">la temperatura passa da un corpo all\'altro</string>
+    <string name="question_96_answer2">calore viene ceduto al corpo più freddo</string>
+    <string name="question_96_answer3">calore viene ceduto al corpo più caldo</string>
+    <string name="question_96_answer4">calore specifico viene ceduto al corpo più freddo</string>
+    <string name="question_96_answer5">capacità termica viene ceduta al corpo più caldo</string>
+    <string name="question_96_explanation"></string>
+    <string name="question_96_translated">false</string>
+
+    <string name="question_97_question">Un palloncino A viene gonfiato con un certo volume V di
+        aria. Un secondo palloncino B, identico ad A viene gonfiato con pari volume V di un gas il cui peso specifico è inferiore a quello dell\'aria. Si può affermare che:</string>
+    <string name="question_97_answer1">la forza di Archimede che agisce sul palloncino A è inferiore alla forza di Archimede che agisce sul palloncino B</string>
+    <string name="question_97_answer2">la forza di Archimede che agisce sul palloncino A è superiore alla forza di Archimede che agisce sul palloncino B</string>
+    <string name="question_97_answer3">la forza di Archimede che agisce sul palloncino A è uguale alla forza di Archimede che agisce sul palloncino B</string>
+    <string name="question_97_answer4">la forza di Archimede agisce soltanto su corpi immersi in
+        un liquido, per cui la forza di Archimede agente sui due palloncini immersi nell\aria è nulla</string>
+    <string name="question_97_answer5">la forza di Archimede che agisce sul palloncino A può essere maggiore, minore o uguale alla forza di Archimede che agisce sul palloncino B, a seconda della posizione dei due palloncini gonfiati</string>
+    <string name="question_97_explanation"></string>
+    <string name="question_97_translated">false</string>
+
+    <string name="question_98_question">Una mole di He4 a temperatura 0 °C e pressione 1 atm (N = num. di Avogadro):</string>
+    <string name="question_98_answer1">occupa 1 m3</string>
+    <string name="question_98_answer2">ha N atomi</string>
+    <string name="question_98_answer3">ha 4 . N atomi</string>
+    <string name="question_98_answer4">ha 4 N protoni</string>
+    <string name="question_98_answer5">occupa 22,4 m3</string>
+    <string name="question_98_explanation"></string>
+    <string name="question_98_translated">false</string>
+
+    <string name="question_99_question">Per scaldare un kg di una sostanza A di 5°C è necessaria
+        la stessa quantità di calore che serve per innalzare di 10°C la temperatura di 500 g di una sostanza B. Si deduce che il rapporto tra il calore specifico di A e il calore specifico di B, (CA/CB) vale:</string>
+    <string name="question_99_answer1">1</string>
+    <string name="question_99_answer2">4</string>
+    <string name="question_99_answer3">1/4</string>
+    <string name="question_99_answer4">25</string>
+    <string name="question_99_answer5">1/25</string>
+    <string name="question_99_explanation"></string>
+    <string name="question_99_translated">false</string>
+
+    <string name="question_100_question">La pressione atmosferica equivale a:</string>
+    <string name="question_100_answer1">10 tonnellate/m2</string>
+    <string name="question_100_answer2">1 tonnellata/m2</string>
+    <string name="question_100_answer3">0,1 tonnellata/m2</string>
+    <string name="question_100_answer4">100 kg/cm2</string>
+    <string name="question_100_answer5">9,8 kg/cm2</string>
+    <string name="question_100_explanation"></string>
+    <string name="question_100_translated">false</string>
+
+    <string name="question_101_question">Come variano le temperature di due corpi di diversa costituzione e di massa diversa se ad essi viene fornita la medesima quantità di calore?</string>
+    <string name="question_101_answer1">Il corpo di massa minore si porta ad una temperatura più elevata</string>
+    <string name="question_101_answer2">Il corpo di massa maggiore si porta ad una temperatura più elevata</string>
+    <string name="question_101_answer3">Siccome le quantità di calore sono uguali, i corpi si portano alla stessa temperatura</string>
+    <string name="question_101_answer4">Non si può dire nulla se non si conoscono i rispettivi calori specifici </string>
+    <string name="question_101_answer5">Dipende dalla quantità di calore</string>
+    <string name="question_101_explanation"></string>
+    <string name="question_101_translated">false</string>
+
+    <string name="question_102_question">In ogni frigorifero una certa quantità di calore viene
+        sottratta ogni secondo alla cella fredda e ceduta all\'ambiente esterno a temperatura più
+        alta, ossia del calore passa da un corpo più freddo ad uno più caldo.
+     Scegli quale tra le seguenti risposte è CORRETTA:</string>
+    <string name="question_102_answer1">quanto sopra affermato è vero perché il frigorifero è una delle macchine termiche che funziona indipendentemente dal secondo principio della termodinamica</string>
+    <string name="question_102_answer2">quanto sopra affermato è vero perché il secondo principio della termodinamica si applica solo alle macchine termiche che trasformano in lavoro il calore sottratto a una certa sorgente</string>
+    <string name="question_102_answer3">anche una macchina frigorifera deve funzionare
+        rispettando il secondo principio della termodinamica; la spiegazione del suo
+        funzionamento sta nel fatto che il passaggio di calore da un corpo più freddo a uno più
+        caldo non è l\'unico risultato che si ottiene durante ogni ciclo</string>
+    <string name="question_102_answer4">il funzionamento di un frigorifero si può spiegare solo
+        tenendo presente che i cicli vengono compiuti da gas molto particolari, che non seguono
+        la legge dei gas perfetti e che inquinano l\'atmosfera</string>
+    <string name="question_102_answer5">per spiegare il funzionamento di un frigorifero occorre
+        fare ricorso alle leggi della meccanica quantistica</string>
+    <string name="question_102_explanation"></string>
+    <string name="question_102_translated">false</string>
+
+    <string name="question_103_question">A pressione costante la relazione esistente tra il volume e la temperatura in un gas è:</string>
+    <string name="question_103_answer1">V/T = costante</string>
+    <string name="question_103_answer2">V = T</string>
+    <string name="question_103_answer3">V = R/T</string>
+    <string name="question_103_answer4">V . T = costante</string>
+    <string name="question_103_answer5">V = costante (sempre)</string>
+    <string name="question_103_explanation"></string>
+    <string name="question_103_translated">false</string>
+
+    <string name="question_104_question">Per calcolare l\'aumento della temperatura di un corpo
+        susseguente alla somministrazione di una quantità di calore nota occorre conoscere anche:</string>
+    <string name="question_104_answer1">la composizione chimica del corpo</string>
+    <string name="question_104_answer2">il calore specifico del corpo</string>
+    <string name="question_104_answer3">il calore specifico e la massa del corpo</string>
+    <string name="question_104_answer4">la temperatura iniziale e la massa del corpo</string>
+    <string name="question_104_answer5">la temperatura finale e la massa del corpo</string>
+    <string name="question_104_explanation"></string>
+    <string name="question_104_translated">false</string>
+
+    <string name="question_105_question">Se la stessa quantità di calore viene somministrata a due corpi di uguale capacità termica, possiamo affermare che:</string>
+    <string name="question_105_answer1">subiscono lo stesso abbassamento di temperatura</string>
+    <string name="question_105_answer2">subiscono lo stesso aumento di temperatura</string>
+    <string name="question_105_answer3">subiscono lo stessa dilatazione di volume</string>
+    <string name="question_105_answer4">il corpo di massa maggiore subisce un aumento di
+        temperatura maggiore dell\'altro</string>
+    <string name="question_105_answer5">il corpo di massa maggiore subisce un aumento di
+        temperatura minore dell\'altro</string>
+    <string name="question_105_explanation"></string>
+    <string name="question_105_translated">false</string>
+
+    <string name="question_106_question">Il calore:</string>
+    <string name="question_106_answer1">è una proprietà dei corpi</string>
+    <string name="question_106_answer2">costituisce l\'energia interna dei corpi</string>
+    <string name="question_106_answer3">non è mai negativo</string>
+    <string name="question_106_answer4">è energia in transito tra due corpi dotati di diversa temperatura</string>
+    <string name="question_106_answer5">è uguale alla temperatura dei corpi</string>
+    <string name="question_106_explanation"></string>
+    <string name="question_106_translated">false</string>
+
+    <string name="question_107_question">Se un gas perfetto subisce una compressione adiabatica allora la sua temperatura:</string>
+    <string name="question_107_answer1">aumenta</string>
+    <string name="question_107_answer2">sale o scende a seconda del tipo di gas</string>
+    <string name="question_107_answer3">rimane costante</string>
+    <string name="question_107_answer4">sale o scende a seconda del grado di isolamento termico raggiunto</string>
+    <string name="question_107_answer5">diminuisce</string>
+    <string name="question_107_explanation"></string>
+    <string name="question_107_translated">false</string>
+
+    <string name="question_108_question">Mescolando 1 kg d\'acqua avente una temperatura di 80 °C
+        con una eguale massa d\'acqua a 20 °C, quale temperatura assumerà la miscela (supponendo
+        che il calore specifico non dipenda dalla temperatura stessa)?</string>
+    <string name="question_108_answer1">Bisogna conoscere il valore di tale calore specifico</string>
+    <string name="question_108_answer2">(80 . 20)/(80 - 20) = 26,67 °C</string>
+    <string name="question_108_answer3">(80 - 20) = 60 °C</string>
+    <string name="question_108_answer4">(80 + 20)/2 = 50 °C</string>
+    <string name="question_108_answer5">(80 . 20)1/2 = 40 °C</string>
+    <string name="question_108_explanation"></string>
+    <string name="question_108_translated">false</string>
+
+    <string name="question_109_question">Il primo principio della termodinamica tratta:</string>
+    <string name="question_109_answer1">della relazione tra pressione e temperatura</string>
+    <string name="question_109_answer2">della definizione della temperatura</string>
+    <string name="question_109_answer3">della definizione di capacità termica</string>
+    <string name="question_109_answer4">della conservazione dell\'energia</string>
+    <string name="question_109_answer5">della diffusione del calore</string>
+    <string name="question_109_explanation"></string>
+    <string name="question_109_translated">false</string>
+
+    <string name="question_110_question">Una mole di gas perfetto in condizioni standard</string>
+    <string name="question_110_answer1">occupa 22,4 L </string>
+    <string name="question_110_answer2">è pari a 1 kg di gas</string>
+    <string name="question_110_answer3">si trova allo zero assoluto</string>
+    <string name="question_110_answer4">si trova a 22,4 atm</string>
+    <string name="question_110_answer5">ha massa 1 u.m.a.</string>
+    <string name="question_110_explanation"></string>
+    <string name="question_110_translated">false</string>
+
+    <string name="question_111_question">L\'acqua viene utilizzata nei circuiti di
+        raffreddamento:</string>
+    <string name="question_111_answer1">per il suo elevato calore specifico</string>
+    <string name="question_111_answer2">per la sua piccola capacità termica</string>
+    <string name="question_111_answer3">perché è un liquido inerte</string>
+    <string name="question_111_answer4">perché è un liquido incomprimibile</string>
+    <string name="question_111_answer5">perché evapora a 100 °C</string>
+    <string name="question_111_explanation"></string>
+    <string name="question_111_translated">false</string>
+
+    <string name="question_112_question">Una caloria (cal) equivale a:</string>
+    <string name="question_112_answer1">1 W</string>
+    <string name="question_112_answer2">1/273 J</string>
+    <string name="question_112_answer3">1 erg . m</string>
+    <string name="question_112_answer4">4,18 J</string>
+    <string name="question_112_answer5">1/4180 J</string>
+    <string name="question_112_explanation"></string>
+    <string name="question_112_translated">false</string>
+
+    <string name="question_113_question">Per quali delle seguenti ragioni nelle pentole a
+        pressione domestiche il cibo si cuoce prima che nelle pentole tradizionali?</string>
+    <string name="question_113_answer1">L\'evaporazione è ridotta</string>
+    <string name="question_113_answer2">L\'aumento di pressione frantuma le cellule</string>
+    <string name="question_113_answer3">Al crescere della pressione aumenta la temperatura di ebollizione e quindi la velocità delle reazioni chimiche</string>
+    <string name="question_113_answer4">Al crescere della pressione diminuisce la temperatura di ebollizione e quindi diminuisce la velocità delle reazioni chimiche</string>
+    <string name="question_113_answer5">Al crescere della pressione diminuisce la temperatura di ebollizione e quindi questa viene raggiunta prima</string>
+    <string name="question_113_explanation"></string>
+    <string name="question_113_translated">false</string>
+
+    <string name="question_114_question">Due oggetti sono in equilibrio termico tra di loro se hanno:</string>
+    <string name="question_114_answer1">stesso calore specifico</string>
+    <string name="question_114_answer2">stessa temperatura</string>
+    <string name="question_114_answer3">stessa capacità termica</string>
+    <string name="question_114_answer4">stessa massa</string>
+    <string name="question_114_answer5">stessa densità</string>
+    <string name="question_114_explanation"></string>
+    <string name="question_114_translated">false</string>
+
+    <string name="question_115_question">Il rendimento di una macchina termica è:</string>
+    <string name="question_115_answer1">rapporto fra calore assorbito e calore ceduto</string>
+    <string name="question_115_answer2">rapporto fra calore assorbito e lavoro fatto</string>
+    <string name="question_115_answer3">rapporto fra lavoro fatto e calore assorbito</string>
+    <string name="question_115_answer4">differenza tra calore assorbito e calore ceduto</string>
+    <string name="question_115_answer5">prodotto fra potenza della macchina e tempo in cui la macchina lavora</string>
+    <string name="question_115_explanation"></string>
+    <string name="question_115_translated">false</string>
+
+    <string name="question_116_question">Indicare la risposta ERRATA. La quantità di calore si può misurare in: </string>
+    <string name="question_116_answer1">joule</string>
+    <string name="question_116_answer2">watt</string>
+    <string name="question_116_answer3">watt . s</string>
+    <string name="question_116_answer4">calorie</string>
+    <string name="question_116_answer5">erg</string>
+    <string name="question_116_explanation"></string>
+    <string name="question_116_translated">false</string>
+
+    <string name="question_117_question">Un gas si espande a pressione costante. Durante
+        l\'espansione è sempre vero che il sistema:</string>
+    <string name="question_117_answer1">compie un lavoro</string>
+    <string name="question_117_answer2">riceve lavoro</string>
+    <string name="question_117_answer3">cede calore</string>
+    <string name="question_117_answer4">si raffredda</string>
+    <string name="question_117_answer5">fa una trasformazione isocora</string>
+    <string name="question_117_explanation"></string>
+    <string name="question_117_translated">false</string>
+
+    <string name="question_118_question">Il rendimento di una macchina termica è uguale a 1:</string>
+    <string name="question_118_answer1">quando funziona a bassissimo regime</string>
+    <string name="question_118_answer2">quando è una macchina ideale senza attriti</string>
+    <string name="question_118_answer3">quando utilizza una sola sorgente di calore</string>
+    <string name="question_118_answer4">in nessun caso</string>
+    <string name="question_118_answer5">quando le due sorgenti di calore hanno la stessa temperatura</string>
+    <string name="question_118_explanation"></string>
+    <string name="question_118_translated">false</string>
+
+    <string name="question_119_question">La quantità di calore si può misurare in:</string>
+    <string name="question_119_answer1">joule</string>
+    <string name="question_119_answer2">Frgradi centigradianc</string>
+    <string name="question_119_answer3">atmosfere</string>
+    <string name="question_119_answer4">grammi</string>
+    <string name="question_119_answer5">calorie . centimetro quadrato</string>
+    <string name="question_119_explanation"></string>
+    <string name="question_119_translated">false</string>
+
+    <string name="question_120_question">Un metro cubo di un certo metallo (densità relativa=7; calore specifico=1/6 kcal/kg) ha capacità termica (in kilocalorie) pari a:</string>
+    <string name="question_120_answer1">1/42000</string>
+    <string name="question_120_answer2">1/42</string>
+    <string name="question_120_answer3">6/7</string>
+    <string name="question_120_answer4">7/6</string>
+    <string name="question_120_answer5">7000/6</string>
+    <string name="question_120_explanation"></string>
+    <string name="question_120_translated">false</string>
+
+    <string name="question_121_question">Due chilogrammi d\'acqua alla temperatura di 80 °C
+        vengono introdotti in un calorimero contenente un chilogrammo d\'acqua a 20 °C. La temperatura di equilibrio raggiunta dopo un certo tempo nel calorimero è:</string>
+    <string name="question_121_answer1">30 °C</string>
+    <string name="question_121_answer2">50 °C</string>
+    <string name="question_121_answer3">60 °C</string>
+    <string name="question_121_answer4">33 °C</string>
+    <string name="question_121_answer5">non vi sono dati sufficienti per rispondere</string>
+    <string name="question_121_explanation"></string>
+    <string name="question_121_translated">false</string>
+
+    <string name="question_122_question">L\'acqua in un recipiente posto su una sorgente di
+        calore bolle quando:</string>
+    <string name="question_122_answer1">la sezione di un recipiente raggiunge un certo valore</string>
+    <string name="question_122_answer2">la temperatura dell\'acqua raggiunge i 110 °C</string>
+    <string name="question_122_answer3">la pressione esercitata sull\'acqua è uguale a quella
+        esercitata sulle pareti del recipiente</string>
+    <string name="question_122_answer4">la tensione di vapore raggiunge i 100 mmHg</string>
+    <string name="question_122_answer5">la tensione del suo vapore uguaglia la pressione esterna</string>
+    <string name="question_122_explanation"></string>
+    <string name="question_122_translated">false</string>
+
+    <string name="question_123_question">Un recipiente termicamente isolato è diviso in due parti
+        uguali da una membrana. Nelle due metà sono contenuti due gas perfetti, uno monoatomico,
+        l\'altro biatomico, alla stessa temperatura T0 ed alla stessa pressione P0. Se si rompe la membrana, i due gas si mescolano; all\'equilibrio la pressione sarà:</string>
+    <string name="question_123_answer1">2 P0</string>
+    <string name="question_123_answer2">P0</string>
+    <string name="question_123_answer3">P0/2</string>
+    <string name="question_123_answer4">non uniforme, perché i gas, uno monoatomico e l\'altro
+        biatomico non si mescolano bene</string>
+    <string name="question_123_answer5">P0/273</string>
+    <string name="question_123_explanation"></string>
+    <string name="question_123_translated">false</string>
+
+    <string name="question_124_question">Che differenza c\'è tra gas e vapore?</string>
+    <string name="question_124_answer1">Si parla di gas quando la temperatura è superiore a quella critica, di vapore quanto la temperatura è inferiore</string>
+    <string name="question_124_answer2">Il gas è irrespirabile, contrariamente al vapore</string>
+    <string name="question_124_answer3">Si parla di vapore solo nel caso dell\'acqua, tutti gli
+        altri aeriformi sono gas</string>
+    <string name="question_124_answer4">Non c\'è nessuna differenza</string>
+    <string name="question_124_answer5">Il gas è freddo mentre il vapore è caldo</string>
+    <string name="question_124_explanation"></string>
+    <string name="question_124_translated">false</string>
+
+    <string name="question_125_question">Due stanze di uguale volume e comunicanti (uguale
+        pressione) contengono un gas perfetto. Le temperature T1 e T2 sono diverse nelle due stanze. Se ne deduce che:</string>
+    <string name="question_125_answer1">c\'è più aria nella stanza più fredda</string>
+    <string name="question_125_answer2">c\'è più aria nella stanza più calda</string>
+    <string name="question_125_answer3">la quantità di aria è la stessa nelle due stanz</string>
+    <string name="question_125_answer4">non si può concludere niente</string>
+    <string name="question_125_answer5">non è possibile che si verifichi questa situazione</string>
+    <string name="question_125_explanation"></string>
+    <string name="question_125_translated">false</string>
+
+    <string name="question_126_question">Quando un gas perfetto viene compresso isotermicamente:</string>
+    <string name="question_126_answer1">il gas assorbe calore dall\'esterno</string>
+    <string name="question_126_answer2">il gas cede calore all\'ambiente esterno</string>
+    <string name="question_126_answer3">il gas si riscalda</string>
+    <string name="question_126_answer4">il gas non scambia calore</string>
+    <string name="question_126_answer5">il gas rimane isovolumico</string>
+    <string name="question_126_explanation"></string>
+    <string name="question_126_translated">false</string>
+
+    <string name="question_127_question">Tra i fenomeni seguenti segnare quello che NON indica un cambiamento di stato:</string>
+    <string name="question_127_answer1">fusione</string>
+    <string name="question_127_answer2">conduzione</string>
+    <string name="question_127_answer3">solidificazione</string>
+    <string name="question_127_answer4">condensazione</string>
+    <string name="question_127_answer5">sublimazione</string>
+    <string name="question_127_explanation"></string>
+    <string name="question_127_translated">false</string>
+
+    <string name="question_128_question">Si può trasferire del calore da un corpo che si trova ad una temperatura di 350 K ad uno che si trova ad una temperatura di 87 °C?</string>
+    <string name="question_128_answer1">No, perché si violerebbe il primo principio della termodinamica</string>
+    <string name="question_128_answer2">Sì, solo se la trasformazione è reversibile</string>
+    <string name="question_128_answer3">Sì, solo se la pressione rimane costante</string>
+    <string name="question_128_answer4">Sì, ma solo compiendo un lavoro</string>
+    <string name="question_128_answer5">Non è possibile rispondere, perché le due temperature sono misurate usando scale diverse</string>
+    <string name="question_128_explanation"></string>
+    <string name="question_128_translated">false</string>
+
+    <string name="question_129_question">Si vuole realizzare una trasformazione in cui unico
+        risultato sia quello di convertire in lavoro il calore sottratto ad un\'unica sorgente termica. È possibile?</string>
+    <string name="question_129_answer1">È senz\'altro possibile</string>
+    <string name="question_129_answer2">È possibile solo nel caso in cui la trasformazione è una trasformazione isotermica</string>
+    <string name="question_129_answer3">È possibile solo nel caso in cui la trasformazione è una trasformazione isocora</string>
+    <string name="question_129_answer4">È possibile solo nel caso in cui la trasformazione è una trasformazione adiabatica</string>
+    <string name="question_129_answer5">È impossibile</string>
+    <string name="question_129_explanation"></string>
+    <string name="question_129_translated">false</string>
+
+    <string name="question_130_question">Le macchine termiche compiono trasformazioni cicliche</string>
+    <string name="question_130_answer1">per obbedire al secondo Principio della Termodinamica</string>
+    <string name="question_130_answer2">per fare a meno di un termostato</string>
+    <string name="question_130_answer3">perché queste sono reversibili</string>
+    <string name="question_130_answer4">perché il rendimento è migliore</string>
+    <string name="question_130_answer5">per poterne compiere un numero a piacere</string>
+    <string name="question_130_explanation"></string>
+    <string name="question_130_translated">false</string>
+
+    <string name="question_131_question">La temperatura assoluta si misura:</string>
+    <string name="question_131_answer1">in gradi Celsius</string>
+    <string name="question_131_answer2">in Kelvin</string>
+    <string name="question_131_answer3">in gradi Fahrenheit</string>
+    <string name="question_131_answer4">in chilocalorie</string>
+    <string name="question_131_answer5">in joule</string>
+    <string name="question_131_explanation"></string>
+    <string name="question_131_translated">false</string>
+
+    <string name="question_132_question">Quando una molecola libera di HCl incontra una molecola
+        libera NH3 per formare una molecola di NH4Cl (cloruro d\'ammonio) lo stato finale del
+        sistema, confrontato con lo stato iniziale:</string>
+    <string name="question_132_answer1">ha energia cinetica totale uguale e quantità di moto totale minore</string>
+    <string name="question_132_answer2">ha energia cinetica totale minore e quantità di moto totale uguale</string>
+    <string name="question_132_answer3">ha energia cinetica e quantità di moto totali minori</string>
+    <string name="question_132_answer4">ha energia cinetica e quantità di moto totali maggiori</string>
+    <string name="question_132_answer5">ha energia cinetica e quantità di moto totali uguali</string>
+    <string name="question_132_explanation"></string>
+    <string name="question_132_translated">false</string>
+
+    <string name="question_133_question">Quale delle seguenti grandezze si può misurare in kcal/kg?</string>
+    <string name="question_133_answer1">Calore latente di fusione</string>
+    <string name="question_133_answer2">Capacità termica</string>
+    <string name="question_133_answer3">Calore specifico</string>
+    <string name="question_133_answer4">Variazione di entropia</string>
+    <string name="question_133_answer5">Equivalente meccanico della caloria</string>
+    <string name="question_133_explanation"></string>
+    <string name="question_133_translated">false</string>
+
+    <string name="question_134_question">In una trasformazione ciclica reversibile, una macchina termica assorbe 450 kcal da un serbatoio di calore e cede 150 kcal ad un altro serbatoio di calore a temperatura più bassa. Il rendimento del ciclo è:</string>
+    <string name="question_134_answer1">1/3</string>
+    <string name="question_134_answer2">2/3</string>
+    <string name="question_134_answer3">3/5</string>
+    <string name="question_134_answer4">1/4</string>
+    <string name="question_134_answer5">3/4</string>
+    <string name="question_134_explanation"></string>
+    <string name="question_134_translated">false</string>
+
+    <string name="question_135_question">Se mescoliamo tra loro in un recipiente adiabatico due masse di acqua, rispettivamente m1 alla temperatura t1 ed m2 alla temperatura t2, la temperatura di equilibrio tf sarà:</string>
+    <string name="question_135_answer1">tf = (m1 t1 + m2 t2) /2</string>
+    <string name="question_135_answer2">tf = (m1 t1 - m2 t2) /2</string>
+    <string name="question_135_answer3">tf = (m1 t1 + m2 t2) /2 (m1 + m2)</string>
+    <string name="question_135_answer4">tf = (m1 t1 - m2 t2) /2 (m1 + m2)</string>
+    <string name="question_135_answer5">tf = (m1 t1 + m2 t2) / (m1 + m2)</string>
+    <string name="question_135_explanation"></string>
+    <string name="question_135_translated">false</string>
+
+    <string name="question_136_question">1020 atomi di gas sono contenuti in un volume di 1 m3.
+        All\'aumentare della temperatura aumenta la pressione del gas in quanto:</string>
+    <string name="question_136_answer1">il gas tende alla condizione di gas perfetto</string>
+    <string name="question_136_answer2">il gas si allontana dalla condizione di gas perfetto</string>
+    <string name="question_136_answer3">l\'energia cinetica delle molecole aumenta</string>
+    <string name="question_136_answer4">l\'energia interna non varia</string>
+    <string name="question_136_answer5">il volume delle molecole aumenta</string>
+    <string name="question_136_explanation"></string>
+    <string name="question_136_translated">false</string>
+
+    <string name="question_137_question">A quale temperatura centigrada le molecole di un gas hanno energia cinetica media uguale alla metà di quella che hanno a temperatura ambiente (considerata di circa 27 °C)?</string>
+    <string name="question_137_answer1">13,5 °C</string>
+    <string name="question_137_answer2">150 °C</string>
+    <string name="question_137_answer3">- 123 °C</string>
+    <string name="question_137_answer4">54 °C</string>
+    <string name="question_137_answer5">- 150 °C</string>
+    <string name="question_137_explanation"></string>
+    <string name="question_137_translated">false</string>
+
+    <string name="question_138_question">Durante l\'espansione adiabatica e reversibile di un gas
+        perfetto, il lavoro compiuto dal sistema è uguale:</string>
+    <string name="question_138_answer1">alla quantità di calore assorbita dall\'ambiente</string>
+    <string name="question_138_answer2">alla diminuzione di energia cinetica elastica dello stesso gas</string>
+    <string name="question_138_answer3">alla variazione dell\'energia cinetica totale delle
+        molecole del gas</string>
+    <string name="question_138_answer4">alla diminuzione dell\'energia potenziale
+        intermolecolare</string>
+    <string name="question_138_answer5">alla variazione di entropia del gas</string>
+    <string name="question_138_explanation"></string>
+    <string name="question_138_translated">false</string>
+
+    <string name="question_139_question">Quando l\'acqua si trasforma in ghiaccio a pressione
+        atmosferica:</string>
+    <string name="question_139_answer1">viene assorbito calore dall\'ambiente</string>
+    <string name="question_139_answer2">aumenta la temperatura del miscuglio acqua-ghiaccio</string>
+    <string name="question_139_answer3">diminuisce la temperatura del miscuglio acqua-ghiaccio</string>
+    <string name="question_139_answer4">si ha una contrazione di volume </string>
+    <string name="question_139_answer5">sviluppa calore cedendolo all\'ambiente</string>
+    <string name="question_139_explanation"></string>
+    <string name="question_139_translated">false</string>
+
+    <string name="question_140_question">La temperatura di ebollizione di un liquido ad una data pressione:</string>
+    <string name="question_140_answer1">dipende esclusivamente dal tipo di liquido che si considera</string>
+    <string name="question_140_answer2">dipende dalla massa del liquido</string>
+    <string name="question_140_answer3">dipende dalla quantità di calore assorbito</string>
+    <string name="question_140_answer4">dipende sia dal tipo di liquido che dalla quantità di calore assorbito</string>
+    <string name="question_140_answer5">dipende dalla superficie libera del liquido</string>
+    <string name="question_140_explanation"></string>
+    <string name="question_140_translated">false</string>
+
+    <string name="question_141_question">Per calcolare il lavoro compiuto da un gas che si espande ad una pressione costante nota è sufficiente conoscere:</string>
+    <string name="question_141_answer1">il volume iniziale del gas </string>
+    <string name="question_141_answer2">la variazione di volume del gas</string>
+    <string name="question_141_answer3">la massa del gas</string>
+    <string name="question_141_answer4">la variazione di temperatura del gas</string>
+    <string name="question_141_answer5">la velocità di espansione del gas</string>
+    <string name="question_141_explanation"></string>
+    <string name="question_141_translated">false</string>
+
+    <string name="question_142_question">Il calore di fusione del ghiaccio è 80 kcal/kg. Se introduciamo in un termos 100 g di ghiaccio a 0 °C e 100 g di acqua a 60 °C, la temperatura di equilibrio del sistema sarà:</string>
+    <string name="question_142_answer1">50 °C</string>
+    <string name="question_142_answer2">30 °C</string>
+    <string name="question_142_answer3">20 °C</string>
+    <string name="question_142_answer4">0 °C</string>
+    <string name="question_142_answer5">- 20 °C</string>
+    <string name="question_142_explanation"></string>
+    <string name="question_142_translated">false</string>
+
+</resources>

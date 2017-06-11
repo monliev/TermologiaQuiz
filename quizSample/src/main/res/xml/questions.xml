@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionList>
+    <Question
+        questionId="0"
+        question="@string/question_0_question"
+        answer1="@string/question_0_answer1"
+        answer2="@string/question_0_answer2"
+        answer3="@string/question_0_answer3"
+        answer4="@string/question_0_answer4"
+        answer5="@string/question_0_answer5"
+        answer="3"
+        explanation="@string/question_0_explanation"
+        translated="@string/question_0_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="1"
+        question="@string/question_1_question"
+        answer1="@string/question_1_answer1"
+        answer2="@string/question_1_answer2"
+        answer3="@string/question_1_answer3"
+        answer4="@string/question_1_answer4"
+        answer5="@string/question_1_answer5"
+        answer="5"
+        explanation="@string/question_1_explanation"
+        translated="@string/question_1_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="2"
+        question="@string/question_2_question"
+        answer1="@string/question_2_answer1"
+        answer2="@string/question_2_answer2"
+        answer3="@string/question_2_answer3"
+        answer4="@string/question_2_answer2"
+        answer5="@string/question_2_answer3"
+        answer="2"
+        explanation="@string/question_2_explanation"
+        translated="@string/question_2_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="3"
+        question="@string/question_3_question"
+        answer1="@string/question_3_answer1"
+        answer2="@string/question_3_answer2"
+        answer3="@string/question_3_answer3"
+        answer4="@string/question_3_answer4"
+        answer5="@string/question_3_answer5"
+        answer="2"
+        explanation="@string/question_3_explanation"
+        translated="@string/question_3_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="4"
+        question="@string/question_4_question"
+        answer1="@string/question_4_answer1"
+        answer2="@string/question_4_answer2"
+        answer3="@string/question_4_answer3"
+        answer4="@string/question_4_answer4"
+        answer5="@string/question_4_answer5"
+        answer="1"
+        explanation="@string/question_4_explanation"
+        translated="@string/question_4_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="5"
+        question="@string/question_5_question"
+        answer1="@string/question_5_answer1"
+        answer2="@string/question_5_answer2"
+        answer3="@string/question_5_answer3"
+        answer4="@string/question_5_answer4"
+        answer5="@string/question_5_answer5"
+        answer="3"
+        explanation="@string/question_5_explanation"
+        translated="@string/question_5_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="6"
+        question="@string/question_6_question"
+        answer1="@string/question_6_answer1"
+        answer2="@string/question_6_answer2"
+        answer3="@string/question_6_answer3"
+        answer4="@string/question_6_answer4"
+        answer5="@string/question_6_answer5"
+        answer="1"
+        explanation="@string/question_6_explanation"
+        translated="@string/question_6_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="7"
+        question="@string/question_7_question"
+        answer1="@string/question_7_answer1"
+        answer2="@string/question_7_answer2"
+        answer3="@string/question_7_answer3"
+        answer4="@string/question_7_answer4"
+        answer5="@string/question_7_answer5"
+        answer="4"
+        explanation="@string/question_7_explanation"
+        translated="@string/question_7_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="8"
+        question="@string/question_8_question"
+        answer1="@string/question_8_answer1"
+        answer2="@string/question_8_answer2"
+        answer3="@string/question_8_answer3"
+        answer4="@string/question_8_answer4"
+        answer5="@string/question_8_answer5"
+        answer="1"
+        explanation="@string/question_8_explanation"
+        translated="@string/question_8_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="9"
+        question="@string/question_9_question"
+        answer1="@string/question_9_answer1"
+        answer2="@string/question_9_answer2"
+        answer3="@string/question_9_answer3"
+        answer4="@string/question_9_answer4"
+        answer5="@string/question_9_answer5"
+        answer="3"
+        explanation="@string/question_9_explanation"
+        translated="@string/question_9_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="10"
+        question="@string/question_10_question"
+        answer1="@string/question_10_answer1"
+        answer2="@string/question_10_answer2"
+        answer3="@string/question_10_answer3"
+        answer4="@string/question_10_answer4"
+        answer5="@string/question_10_answer5"
+        answer="1"
+        explanation="@string/question_10_explanation"
+        translated="@string/question_10_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="11"
+        question="@string/question_11_question"
+        answer1="@string/question_11_answer1"
+        answer2="@string/question_11_answer2"
+        answer3="@string/question_11_answer3"
+        answer4="@string/question_11_answer4"
+        answer5="@string/question_11_answer5"
+        answer="1"
+        explanation="@string/question_11_explanation"
+        translated="@string/question_11_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="12"
+        question="@string/question_12_question"
+        answer1="@string/question_12_answer1"
+        answer2="@string/question_12_answer2"
+        answer3="@string/question_12_answer3"
+        answer4="@string/question_12_answer4"
+        answer5="@string/question_12_answer5"
+        answer="2"
+        explanation="@string/question_12_explanation"
+        translated="@string/question_12_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="13"
+        question="@string/question_13_question"
+        answer1="@string/question_13_answer1"
+        answer2="@string/question_13_answer2"
+        answer3="@string/question_13_answer3"
+        answer4="@string/question_13_answer4"
+        answer5="@string/question_13_answer5"
+        answer="3"
+        explanation="@string/question_13_explanation"
+        translated="@string/question_13_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="14"
+        question="@string/question_14_question"
+        answer1="@string/question_14_answer1"
+        answer2="@string/question_14_answer2"
+        answer3="@string/question_14_answer3"
+        answer4="@string/question_14_answer4"
+        answer5="@string/question_14_answer5"
+        answer="1"
+        explanation="@string/question_14_explanation"
+        translated="@string/question_14_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="15"
+        question="@string/question_15_question"
+        answer1="@string/question_15_answer1"
+        answer2="@string/question_15_answer2"
+        answer3="@string/question_15_answer3"
+        answer4="@string/question_15_answer4"
+        answer5="@string/question_15_answer5"
+        answer="5"
+        explanation="@string/question_15_explanation"
+        translated="@string/question_15_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="16"
+        question="@string/question_16_question"
+        answer1="@string/question_16_answer1"
+        answer2="@string/question_16_answer2"
+        answer3="@string/question_16_answer3"
+        answer4="@string/question_16_answer4"
+        answer5="@string/question_16_answer5"
+        answer="5"
+        explanation="@string/question_16_explanation"
+        translated="@string/question_16_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="17"
+        question="@string/question_17_question"
+        answer1="@string/question_17_answer1"
+        answer2="@string/question_17_answer2"
+        answer3="@string/question_17_answer3"
+        answer4="@string/question_17_answer4"
+        answer5="@string/question_17_answer5"
+        answer="1"
+        explanation="@string/question_17_explanation"
+        translated="@string/question_17_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="18"
+        question="@string/question_18_question"
+        answer1="@string/question_18_answer1"
+        answer2="@string/question_18_answer2"
+        answer3="@string/question_18_answer3"
+        answer4="@string/question_18_answer4"
+        answer5="@string/question_18_answer5"
+        answer="4"
+        explanation="@string/question_18_explanation"
+        translated="@string/question_18_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="19"
+        question="@string/question_19_question"
+        answer1="@string/question_19_answer1"
+        answer2="@string/question_19_answer2"
+        answer3="@string/question_19_answer3"
+        answer4="@string/question_19_answer4"
+        answer5="@string/question_19_answer5"
+        answer="1"
+        explanation="@string/question_19_explanation"
+        translated="@string/question_19_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="20"
+        question="@string/question_20_question"
+        answer1="@string/question_20_answer1"
+        answer2="@string/question_20_answer2"
+        answer3="@string/question_20_answer3"
+        answer4="@string/question_20_answer4"
+        answer5="@string/question_20_answer5"
+        answer="1"
+        explanation="@string/question_20_explanation"
+        translated="@string/question_20_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="21"
+        question="@string/question_21_question"
+        answer1="@string/question_21_answer1"
+        answer2="@string/question_21_answer2"
+        answer3="@string/question_21_answer3"
+        answer4="@string/question_21_answer4"
+        answer5="@string/question_21_answer5"
+        answer="2"
+        explanation="@string/question_21_explanation"
+        translated="@string/question_21_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="22"
+        question="@string/question_22_question"
+        answer1="@string/question_22_answer1"
+        answer2="@string/question_22_answer2"
+        answer3="@string/question_22_answer3"
+        answer4="@string/question_22_answer4"
+        answer5="@string/question_22_answer5"
+        answer="2"
+        explanation="@string/question_22_explanation"
+        translated="@string/question_22_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="23"
+        question="@string/question_23_question"
+        answer1="@string/question_23_answer1"
+        answer2="@string/question_23_answer2"
+        answer3="@string/question_23_answer3"
+        answer4="@string/question_23_answer4"
+        answer5="@string/question_23_answer5"
+        answer="2"
+        explanation="@string/question_23_explanation"
+        translated="@string/question_23_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="24"
+        question="@string/question_24_question"
+        answer1="@string/question_24_answer1"
+        answer2="@string/question_24_answer2"
+        answer3="@string/question_24_answer3"
+        answer4="@string/question_24_answer4"
+        answer5="@string/question_24_answer5"
+        answer="3"
+        explanation="@string/question_24_explanation"
+        translated="@string/question_24_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="25"
+        question="@string/question_25_question"
+        answer1="@string/question_25_answer1"
+        answer2="@string/question_25_answer2"
+        answer3="@string/question_25_answer3"
+        answer4="@string/question_25_answer4"
+        answer5="@string/question_25_answer5"
+        answer="1"
+        explanation="@string/question_25_explanation"
+        translated="@string/question_25_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="26"
+        question="@string/question_26_question"
+        answer1="@string/question_26_answer1"
+        answer2="@string/question_26_answer2"
+        answer3="@string/question_26_answer3"
+        answer4="@string/question_26_answer4"
+        answer5="@string/question_26_answer5"
+        answer="2"
+        explanation="@string/question_26_explanation"
+        translated="@string/question_26_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="27"
+        question="@string/question_27_question"
+        answer1="@string/question_27_answer1"
+        answer2="@string/question_27_answer2"
+        answer3="@string/question_27_answer3"
+        answer4="@string/question_27_answer4"
+        answer5="@string/question_27_answer5"
+        answer="3"
+        explanation="@string/question_27_explanation"
+        translated="@string/question_27_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="28"
+        question="@string/question_28_question"
+        answer1="@string/question_28_answer1"
+        answer2="@string/question_28_answer2"
+        answer3="@string/question_28_answer3"
+        answer4="@string/question_28_answer4"
+        answer5="@string/question_28_answer5"
+        answer="3"
+        explanation="@string/question_28_explanation"
+        translated="@string/question_28_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="29"
+        question="@string/question_29_question"
+        answer1="@string/question_29_answer1"
+        answer2="@string/question_29_answer2"
+        answer3="@string/question_29_answer3"
+        answer4="@string/question_29_answer4"
+        answer5="@string/question_29_answer5"
+        answer="4"
+        explanation="@string/question_29_explanation"
+        translated="@string/question_29_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="30"
+        question="@string/question_30_question"
+        answer1="@string/question_30_answer1"
+        answer2="@string/question_30_answer2"
+        answer3="@string/question_30_answer3"
+        answer4="@string/question_30_answer4"
+        answer5="@string/question_30_answer5"
+        answer="1"
+        explanation="@string/question_30_explanation"
+        translated="@string/question_30_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="31"
+        question="@string/question_31_question"
+        answer1="@string/question_31_answer1"
+        answer2="@string/question_31_answer2"
+        answer3="@string/question_31_answer3"
+        answer4="@string/question_31_answer4"
+        answer5="@string/question_31_answer5"
+        answer="1"
+        explanation="@string/question_31_explanation"
+        translated="@string/question_31_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="32"
+        question="@string/question_32_question"
+        answer1="@string/question_32_answer1"
+        answer2="@string/question_32_answer2"
+        answer3="@string/question_32_answer3"
+        answer4="@string/question_32_answer4"
+        answer5="@string/question_32_answer5"
+        answer="3"
+        explanation="@string/question_32_explanation"
+        translated="@string/question_32_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="33"
+        question="@string/question_33_question"
+        answer1="@string/question_33_answer1"
+        answer2="@string/question_33_answer2"
+        answer3="@string/question_33_answer3"
+        answer4="@string/question_33_answer4"
+        answer5="@string/question_33_answer5"
+        answer="4"
+        explanation="@string/question_33_explanation"
+        translated="@string/question_33_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="34"
+        question="@string/question_34_question"
+        answer1="@string/question_34_answer1"
+        answer2="@string/question_34_answer2"
+        answer3="@string/question_34_answer3"
+        answer4="@string/question_34_answer4"
+        answer5="@string/question_34_answer5"
+        answer="3"
+        explanation="@string/question_34_explanation"
+        translated="@string/question_34_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="35"
+        question="@string/question_35_question"
+        answer1="@string/question_35_answer1"
+        answer2="@string/question_35_answer2"
+        answer3="@string/question_35_answer3"
+        answer4="@string/question_35_answer4"
+        answer5="@string/question_35_answer5"
+        answer="3"
+        explanation="@string/question_35_explanation"
+        translated="@string/question_35_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="36"
+        question="@string/question_36_question"
+        answer1="@string/question_36_answer1"
+        answer2="@string/question_36_answer2"
+        answer3="@string/question_36_answer3"
+        answer4="@string/question_36_answer4"
+        answer5="@string/question_36_answer5"
+        answer="4"
+        explanation="@string/question_36_explanation"
+        translated="@string/question_36_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="37"
+        question="@string/question_37_question"
+        answer1="@string/question_37_answer1"
+        answer2="@string/question_37_answer2"
+        answer3="@string/question_37_answer3"
+        answer4="@string/question_37_answer4"
+        answer5="@string/question_37_answer5"
+        answer="2"
+        explanation="@string/question_37_explanation"
+        translated="@string/question_37_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="38"
+        question="@string/question_38_question"
+        answer1="@string/question_38_answer1"
+        answer2="@string/question_38_answer2"
+        answer3="@string/question_38_answer3"
+        answer4="@string/question_38_answer4"
+        answer5="@string/question_38_answer5"
+        answer="3"
+        explanation="@string/question_38_explanation"
+        translated="@string/question_38_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="39"
+        question="@string/question_39_question"
+        answer1="@string/question_39_answer1"
+        answer2="@string/question_39_answer2"
+        answer3="@string/question_39_answer3"
+        answer4="@string/question_39_answer4"
+        answer5="@string/question_39_answer5"
+        answer="1"
+        explanation="@string/question_39_explanation"
+        translated="@string/question_39_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="40"
+        question="@string/question_40_question"
+        answer1="@string/question_40_answer1"
+        answer2="@string/question_40_answer2"
+        answer3="@string/question_40_answer3"
+        answer4="@string/question_40_answer4"
+        answer5="@string/question_40_answer5"
+        answer="3"
+        explanation="@string/question_40_explanation"
+        translated="@string/question_40_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="41"
+        question="@string/question_41_question"
+        answer1="@string/question_41_answer1"
+        answer2="@string/question_41_answer2"
+        answer3="@string/question_41_answer3"
+        answer4="@string/question_41_answer4"
+        answer5="@string/question_41_answer5"
+        answer="1"
+        explanation="@string/question_41_explanation"
+        translated="@string/question_41_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="42"
+        question="@string/question_42_question"
+        answer1="@string/question_42_answer1"
+        answer2="@string/question_42_answer2"
+        answer3="@string/question_42_answer3"
+        answer4="@string/question_42_answer4"
+        answer5="@string/question_42_answer5"
+        answer="3"
+        explanation="@string/question_42_explanation"
+        translated="@string/question_42_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="43"
+        question="@string/question_43_question"
+        answer1="@string/question_43_answer1"
+        answer2="@string/question_43_answer2"
+        answer3="@string/question_43_answer3"
+        answer4="@string/question_43_answer4"
+        answer5="@string/question_43_answer5"
+        answer="3"
+        explanation="@string/question_43_explanation"
+        translated="@string/question_43_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="44"
+        question="@string/question_44_question"
+        answer1="@string/question_44_answer1"
+        answer2="@string/question_44_answer2"
+        answer3="@string/question_44_answer3"
+        answer4="@string/question_44_answer4"
+        answer5="@string/question_44_answer5"
+        answer="3"
+        explanation="@string/question_44_explanation"
+        translated="@string/question_44_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="45"
+        question="@string/question_45_question"
+        answer1="@string/question_45_answer1"
+        answer2="@string/question_45_answer2"
+        answer3="@string/question_45_answer3"
+        answer4="@string/question_45_answer4"
+        answer5="@string/question_45_answer5"
+        answer="2"
+        explanation="@string/question_45_explanation"
+        translated="@string/question_45_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="46"
+        question="@string/question_46_question"
+        answer1="@string/question_46_answer1"
+        answer2="@string/question_46_answer2"
+        answer3="@string/question_46_answer3"
+        answer4="@string/question_46_answer4"
+        answer5="@string/question_46_answer5"
+        answer="2"
+        explanation="@string/question_46_explanation"
+        translated="@string/question_46_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="47"
+        question="@string/question_47_question"
+        answer1="@string/question_47_answer1"
+        answer2="@string/question_47_answer2"
+        answer3="@string/question_47_answer3"
+        answer4="@string/question_47_answer4"
+        answer5="@string/question_47_answer5"
+        answer="3"
+        explanation="@string/question_47_explanation"
+        translated="@string/question_47_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="48"
+        question="@string/question_48_question"
+        answer1="@string/question_48_answer1"
+        answer2="@string/question_48_answer2"
+        answer3="@string/question_48_answer3"
+        answer4="@string/question_48_answer4"
+        answer5="@string/question_48_answer5"
+        answer="4"
+        explanation="@string/question_48_explanation"
+        translated="@string/question_48_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="49"
+        question="@string/question_49_question"
+        answer1="@string/question_49_answer1"
+        answer2="@string/question_49_answer2"
+        answer3="@string/question_49_answer3"
+        answer4="@string/question_49_answer4"
+        answer5="@string/question_49_answer5"
+        answer="1"
+        explanation="@string/question_49_explanation"
+        translated="@string/question_49_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="50"
+        question="@string/question_50_question"
+        answer1="@string/question_50_answer1"
+        answer2="@string/question_50_answer2"
+        answer3="@string/question_50_answer3"
+        answer4="@string/question_50_answer4"
+        answer5="@string/question_50_answer5"
+        answer="1"
+        explanation="@string/question_50_explanation"
+        translated="@string/question_50_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="51"
+        question="@string/question_51_question"
+        answer1="@string/question_51_answer1"
+        answer2="@string/question_51_answer2"
+        answer3="@string/question_51_answer3"
+        answer4="@string/question_51_answer4"
+        answer5="@string/question_51_answer5"
+        answer="2"
+        explanation="@string/question_51_explanation"
+        translated="@string/question_51_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="52"
+        question="@string/question_52_question"
+        answer1="@string/question_52_answer1"
+        answer2="@string/question_52_answer2"
+        answer3="@string/question_52_answer3"
+        answer4="@string/question_52_answer4"
+        answer5="@string/question_52_answer5"
+        answer="2"
+        explanation="@string/question_52_explanation"
+        translated="@string/question_52_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="53"
+        question="@string/question_53_question"
+        answer1="@string/question_53_answer1"
+        answer2="@string/question_53_answer2"
+        answer3="@string/question_53_answer3"
+        answer4="@string/question_53_answer4"
+        answer5="@string/question_53_answer5"
+        answer="4"
+        explanation="@string/question_53_explanation"
+        translated="@string/question_53_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="54"
+        question="@string/question_54_question"
+        answer1="@string/question_54_answer1"
+        answer2="@string/question_54_answer2"
+        answer3="@string/question_54_answer3"
+        answer4="@string/question_54_answer4"
+        answer5="@string/question_54_answer5"
+        answer="4"
+        explanation="@string/question_54_explanation"
+        translated="@string/question_54_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="55"
+        question="@string/question_55_question"
+        answer1="@string/question_55_answer1"
+        answer2="@string/question_55_answer2"
+        answer3="@string/question_55_answer3"
+        answer4="@string/question_55_answer4"
+        answer5="@string/question_55_answer5"
+        answer="2"
+        explanation="@string/question_55_explanation"
+        translated="@string/question_55_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="56"
+        question="@string/question_56_question"
+        answer1="@string/question_56_answer1"
+        answer2="@string/question_56_answer2"
+        answer3="@string/question_56_answer3"
+        answer4="@string/question_56_answer4"
+        answer5="@string/question_56_answer5"
+        answer="2"
+        explanation="@string/question_56_explanation"
+        translated="@string/question_56_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="57"
+        question="@string/question_57_question"
+        answer1="@string/question_57_answer1"
+        answer2="@string/question_57_answer2"
+        answer3="@string/question_57_answer3"
+        answer4="@string/question_57_answer4"
+        answer5="@string/question_57_answer5"
+        answer="4"
+        explanation="@string/question_57_explanation"
+        translated="@string/question_57_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="58"
+        question="@string/question_58_question"
+        answer1="@string/question_58_answer1"
+        answer2="@string/question_58_answer2"
+        answer3="@string/question_58_answer3"
+        answer4="@string/question_58_answer4"
+        answer5="@string/question_58_answer5"
+        answer="4"
+        explanation="@string/question_58_explanation"
+        translated="@string/question_58_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="59"
+        question="@string/question_59_question"
+        answer1="@string/question_59_answer1"
+        answer2="@string/question_59_answer2"
+        answer3="@string/question_59_answer3"
+        answer4="@string/question_59_answer4"
+        answer5="@string/question_59_answer5"
+        answer="3"
+        explanation="@string/question_59_explanation"
+        translated="@string/question_59_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="60"
+        question="@string/question_60_question"
+        answer1="@string/question_60_answer1"
+        answer2="@string/question_60_answer2"
+        answer3="@string/question_60_answer3"
+        answer4="@string/question_60_answer4"
+        answer5="@string/question_60_answer5"
+        answer="3"
+        explanation="@string/question_60_explanation"
+        translated="@string/question_60_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="61"
+        question="@string/question_61_question"
+        answer1="@string/question_61_answer1"
+        answer2="@string/question_61_answer2"
+        answer3="@string/question_61_answer3"
+        answer4="@string/question_61_answer4"
+        answer5="@string/question_61_answer5"
+        answer="1"
+        explanation="@string/question_61_explanation"
+        translated="@string/question_61_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="62"
+        question="@string/question_62_question"
+        answer1="@string/question_62_answer1"
+        answer2="@string/question_62_answer2"
+        answer3="@string/question_62_answer3"
+        answer4="@string/question_62_answer4"
+        answer5="@string/question_62_answer5"
+        answer="3"
+        explanation="@string/question_62_explanation"
+        translated="@string/question_62_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="63"
+        question="@string/question_63_question"
+        answer1="@string/question_63_answer1"
+        answer2="@string/question_63_answer2"
+        answer3="@string/question_63_answer3"
+        answer4="@string/question_63_answer4"
+        answer5="@string/question_63_answer5"
+        answer="2"
+        explanation="@string/question_63_explanation"
+        translated="@string/question_63_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="64"
+        question="@string/question_64_question"
+        answer1="@string/question_64_answer1"
+        answer2="@string/question_64_answer2"
+        answer3="@string/question_64_answer3"
+        answer4="@string/question_64_answer4"
+        answer5="@string/question_64_answer5"
+        answer="2"
+        explanation="@string/question_64_explanation"
+        translated="@string/question_64_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="65"
+        question="@string/question_65_question"
+        answer1="@string/question_65_answer1"
+        answer2="@string/question_65_answer2"
+        answer3="@string/question_65_answer3"
+        answer4="@string/question_65_answer4"
+        answer5="@string/question_65_answer5"
+        answer="3"
+        explanation="@string/question_65_explanation"
+        translated="@string/question_65_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="66"
+        question="@string/question_66_question"
+        answer1="@string/question_66_answer1"
+        answer2="@string/question_66_answer2"
+        answer3="@string/question_66_answer3"
+        answer4="@string/question_66_answer4"
+        answer5="@string/question_66_answer5"
+        answer="2"
+        explanation="@string/question_66_explanation"
+        translated="@string/question_66_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="67"
+        question="@string/question_67_question"
+        answer1="@string/question_67_answer1"
+        answer2="@string/question_67_answer2"
+        answer3="@string/question_67_answer3"
+        answer4="@string/question_67_answer4"
+        answer5="@string/question_67_answer5"
+        answer="2"
+        explanation="@string/question_67_explanation"
+        translated="@string/question_67_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="68"
+        question="@string/question_68_question"
+        answer1="@string/question_68_answer1"
+        answer2="@string/question_68_answer2"
+        answer3="@string/question_68_answer3"
+        answer4="@string/question_68_answer4"
+        answer5="@string/question_68_answer5"
+        answer="2"
+        explanation="@string/question_68_explanation"
+        translated="@string/question_68_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="69"
+        question="@string/question_69_question"
+        answer1="@string/question_69_answer1"
+        answer2="@string/question_69_answer2"
+        answer3="@string/question_69_answer3"
+        answer4="@string/question_69_answer4"
+        answer5="@string/question_69_answer5"
+        answer="3"
+        explanation="@string/question_69_explanation"
+        translated="@string/question_69_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="70"
+        question="@string/question_70_question"
+        answer1="@string/question_70_answer1"
+        answer2="@string/question_70_answer2"
+        answer3="@string/question_70_answer3"
+        answer4="@string/question_70_answer4"
+        answer5="@string/question_70_answer5"
+        answer="4"
+        explanation="@string/question_70_explanation"
+        translated="@string/question_70_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="71"
+        question="@string/question_71_question"
+        answer1="@string/question_71_answer1"
+        answer2="@string/question_71_answer2"
+        answer3="@string/question_71_answer3"
+        answer4="@string/question_71_answer4"
+        answer5="@string/question_71_answer5"
+        answer="4"
+        explanation="@string/question_71_explanation"
+        translated="@string/question_71_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="72"
+        question="@string/question_72_question"
+        answer1="@string/question_72_answer1"
+        answer2="@string/question_72_answer2"
+        answer3="@string/question_72_answer3"
+        answer4="@string/question_72_answer4"
+        answer5="@string/question_72_answer5"
+        answer="4"
+        explanation="@string/question_72_explanation"
+        translated="@string/question_72_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="73"
+        question="@string/question_73_question"
+        answer1="@string/question_73_answer1"
+        answer2="@string/question_73_answer2"
+        answer3="@string/question_73_answer3"
+        answer4="@string/question_73_answer4"
+        answer5="@string/question_73_answer5"
+        answer="2"
+        explanation="@string/question_73_explanation"
+        translated="@string/question_73_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="74"
+        question="@string/question_74_question"
+        answer1="@string/question_74_answer1"
+        answer2="@string/question_74_answer2"
+        answer3="@string/question_74_answer3"
+        answer4="@string/question_74_answer4"
+        answer5="@string/question_74_answer5"
+        answer="1"
+        explanation="@string/question_74_explanation"
+        translated="@string/question_74_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="75"
+        question="@string/question_75_question"
+        answer1="@string/question_75_answer1"
+        answer2="@string/question_75_answer2"
+        answer3="@string/question_75_answer3"
+        answer4="@string/question_75_answer4"
+        answer5="@string/question_75_answer5"
+        answer="2"
+        explanation="@string/question_75_explanation"
+        translated="@string/question_75_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="76"
+        question="@string/question_76_question"
+        answer1="@string/question_76_answer1"
+        answer2="@string/question_76_answer2"
+        answer3="@string/question_76_answer3"
+        answer4="@string/question_76_answer4"
+        answer5="@string/question_76_answer5"
+        answer="4"
+        explanation="@string/question_76_explanation"
+        translated="@string/question_76_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="77"
+        question="@string/question_77_question"
+        answer1="@string/question_77_answer1"
+        answer2="@string/question_77_answer2"
+        answer3="@string/question_77_answer3"
+        answer4="@string/question_77_answer4"
+        answer5="@string/question_77_answer5"
+        answer="1"
+        explanation="@string/question_77_explanation"
+        translated="@string/question_77_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="78"
+        question="@string/question_78_question"
+        answer1="@string/question_78_answer1"
+        answer2="@string/question_78_answer2"
+        answer3="@string/question_78_answer3"
+        answer4="@string/question_78_answer4"
+        answer5="@string/question_78_answer5"
+        answer="4"
+        explanation="@string/question_78_explanation"
+        translated="@string/question_78_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="79"
+        question="@string/question_79_question"
+        answer1="@string/question_79_answer1"
+        answer2="@string/question_79_answer2"
+        answer3="@string/question_79_answer3"
+        answer4="@string/question_79_answer4"
+        answer5="@string/question_79_answer5"
+        answer="1"
+        explanation="@string/question_79_explanation"
+        translated="@string/question_79_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="80"
+        question="@string/question_80_question"
+        answer1="@string/question_80_answer1"
+        answer2="@string/question_80_answer2"
+        answer3="@string/question_80_answer3"
+        answer4="@string/question_80_answer4"
+        answer5="@string/question_80_answer5"
+        answer="1"
+        explanation="@string/question_80_explanation"
+        translated="@string/question_80_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="81"
+        question="@string/question_81_question"
+        answer1="@string/question_81_answer1"
+        answer2="@string/question_81_answer2"
+        answer3="@string/question_81_answer3"
+        answer4="@string/question_81_answer4"
+        answer5="@string/question_81_answer5"
+        answer="1"
+        explanation="@string/question_81_explanation"
+        translated="@string/question_81_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="82"
+        question="@string/question_82_question"
+        answer1="@string/question_82_answer1"
+        answer2="@string/question_82_answer2"
+        answer3="@string/question_82_answer3"
+        answer4="@string/question_82_answer4"
+        answer5="@string/question_82_answer5"
+        answer="1"
+        explanation="@string/question_82_explanation"
+        translated="@string/question_82_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="83"
+        question="@string/question_83_question"
+        answer1="@string/question_83_answer1"
+        answer2="@string/question_83_answer2"
+        answer3="@string/question_83_answer3"
+        answer4="@string/question_83_answer4"
+        answer5="@string/question_83_answer5"
+        answer="2"
+        explanation="@string/question_83_explanation"
+        translated="@string/question_83_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="84"
+        question="@string/question_84_question"
+        answer1="@string/question_84_answer1"
+        answer2="@string/question_84_answer2"
+        answer3="@string/question_84_answer3"
+        answer4="@string/question_84_answer4"
+        answer5="@string/question_84_answer5"
+        answer="4"
+        explanation="@string/question_84_explanation"
+        translated="@string/question_84_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="85"
+        question="@string/question_85_question"
+        answer1="@string/question_85_answer1"
+        answer2="@string/question_85_answer2"
+        answer3="@string/question_85_answer3"
+        answer4="@string/question_85_answer4"
+        answer5="@string/question_85_answer5"
+        answer="3"
+        explanation="@string/question_85_explanation"
+        translated="@string/question_85_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="86"
+        question="@string/question_86_question"
+        answer1="@string/question_86_answer1"
+        answer2="@string/question_86_answer2"
+        answer3="@string/question_86_answer3"
+        answer4="@string/question_86_answer4"
+        answer5="@string/question_86_answer5"
+        answer="3"
+        explanation="@string/question_86_explanation"
+        translated="@string/question_86_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="87"
+        question="@string/question_87_question"
+        answer1="@string/question_87_answer1"
+        answer2="@string/question_87_answer2"
+        answer3="@string/question_87_answer3"
+        answer4="@string/question_87_answer4"
+        answer5="@string/question_87_answer5"
+        answer="3"
+        explanation="@string/question_87_explanation"
+        translated="@string/question_87_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="88"
+        question="@string/question_88_question"
+        answer1="@string/question_88_answer1"
+        answer2="@string/question_88_answer2"
+        answer3="@string/question_88_answer3"
+        answer4="@string/question_88_answer4"
+        answer5="@string/question_88_answer5"
+        answer="4"
+        explanation="@string/question_88_explanation"
+        translated="@string/question_88_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="89"
+        question="@string/question_89_question"
+        answer1="@string/question_89_answer1"
+        answer2="@string/question_89_answer2"
+        answer3="@string/question_89_answer3"
+        answer4="@string/question_89_answer4"
+        answer5="@string/question_89_answer5"
+        answer="2"
+        explanation="@string/question_89_explanation"
+        translated="@string/question_89_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="90"
+        question="@string/question_90_question"
+        answer1="@string/question_90_answer1"
+        answer2="@string/question_90_answer2"
+        answer3="@string/question_90_answer3"
+        answer4="@string/question_90_answer4"
+        answer5="@string/question_90_answer5"
+        answer="4"
+        explanation="@string/question_90_explanation"
+        translated="@string/question_90_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="91"
+        question="@string/question_91_question"
+        answer1="@string/question_91_answer1"
+        answer2="@string/question_91_answer2"
+        answer3="@string/question_91_answer3"
+        answer4="@string/question_91_answer4"
+        answer5="@string/question_91_answer5"
+        answer="1"
+        explanation="@string/question_91_explanation"
+        translated="@string/question_91_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="92"
+        question="@string/question_92_question"
+        answer1="@string/question_92_answer1"
+        answer2="@string/question_92_answer2"
+        answer3="@string/question_92_answer3"
+        answer4="@string/question_92_answer4"
+        answer5="@string/question_92_answer5"
+        answer="2"
+        explanation="@string/question_92_explanation"
+        translated="@string/question_92_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="93"
+        question="@string/question_93_question"
+        answer1="@string/question_93_answer1"
+        answer2="@string/question_93_answer2"
+        answer3="@string/question_93_answer3"
+        answer4="@string/question_93_answer4"
+        answer5="@string/question_93_answer5"
+        answer="1"
+        explanation="@string/question_93_explanation"
+        translated="@string/question_93_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="94"
+        question="@string/question_94_question"
+        answer1="@string/question_94_answer1"
+        answer2="@string/question_94_answer2"
+        answer3="@string/question_94_answer3"
+        answer4="@string/question_94_answer4"
+        answer5="@string/question_94_answer5"
+        answer="2"
+        explanation="@string/question_94_explanation"
+        translated="@string/question_94_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="95"
+        question="@string/question_95_question"
+        answer1="@string/question_95_answer1"
+        answer2="@string/question_95_answer2"
+        answer3="@string/question_95_answer3"
+        answer4="@string/question_95_answer4"
+        answer5="@string/question_95_answer5"
+        answer="4"
+        explanation="@string/question_95_explanation"
+        translated="@string/question_95_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="96"
+        question="@string/question_96_question"
+        answer1="@string/question_96_answer1"
+        answer2="@string/question_96_answer2"
+        answer3="@string/question_96_answer3"
+        answer4="@string/question_96_answer4"
+        answer5="@string/question_96_answer5"
+        answer="2"
+        explanation="@string/question_96_explanation"
+        translated="@string/question_96_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="97"
+        question="@string/question_97_question"
+        answer1="@string/question_97_answer1"
+        answer2="@string/question_97_answer2"
+        answer3="@string/question_97_answer3"
+        answer4="@string/question_97_answer4"
+        answer5="@string/question_97_answer5"
+        answer="3"
+        explanation="@string/question_97_explanation"
+        translated="@string/question_97_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="98"
+        question="@string/question_98_question"
+        answer1="@string/question_98_answer1"
+        answer2="@string/question_98_answer2"
+        answer3="@string/question_98_answer3"
+        answer4="@string/question_98_answer4"
+        answer5="@string/question_98_answer5"
+        answer="2"
+        explanation="@string/question_98_explanation"
+        translated="@string/question_98_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="99"
+        question="@string/question_99_question"
+        answer1="@string/question_99_answer1"
+        answer2="@string/question_99_answer2"
+        answer3="@string/question_99_answer3"
+        answer4="@string/question_99_answer4"
+        answer5="@string/question_99_answer5"
+        answer="1"
+        explanation="@string/question_99_explanation"
+        translated="@string/question_99_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="100"
+        question="@string/question_100_question"
+        answer1="@string/question_100_answer1"
+        answer2="@string/question_100_answer2"
+        answer3="@string/question_100_answer3"
+        answer4="@string/question_100_answer4"
+        answer5="@string/question_100_answer5"
+        answer="1"
+        explanation="@string/question_100_explanation"
+        translated="@string/question_100_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="101"
+        question="@string/question_101_question"
+        answer1="@string/question_101_answer1"
+        answer2="@string/question_101_answer2"
+        answer3="@string/question_101_answer3"
+        answer4="@string/question_101_answer4"
+        answer5="@string/question_101_answer5"
+        answer="4"
+        explanation="@string/question_101_explanation"
+        translated="@string/question_101_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="102"
+        question="@string/question_102_question"
+        answer1="@string/question_102_answer1"
+        answer2="@string/question_102_answer2"
+        answer3="@string/question_102_answer3"
+        answer4="@string/question_102_answer4"
+        answer5="@string/question_102_answer5"
+        answer="3"
+        explanation="@string/question_102_explanation"
+        translated="@string/question_102_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="103"
+        question="@string/question_103_question"
+        answer1="@string/question_103_answer1"
+        answer2="@string/question_103_answer2"
+        answer3="@string/question_103_answer3"
+        answer4="@string/question_103_answer4"
+        answer5="@string/question_103_answer5"
+        answer="1"
+        explanation="@string/question_103_explanation"
+        translated="@string/question_103_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="104"
+        question="@string/question_104_question"
+        answer1="@string/question_104_answer1"
+        answer2="@string/question_104_answer2"
+        answer3="@string/question_104_answer3"
+        answer4="@string/question_104_answer4"
+        answer5="@string/question_104_answer5"
+        answer="3"
+        explanation="@string/question_104_explanation"
+        translated="@string/question_104_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="105"
+        question="@string/question_105_question"
+        answer1="@string/question_105_answer1"
+        answer2="@string/question_105_answer2"
+        answer3="@string/question_105_answer3"
+        answer4="@string/question_105_answer4"
+        answer5="@string/question_105_answer5"
+        answer="2"
+        explanation="@string/question_105_explanation"
+        translated="@string/question_105_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="106"
+        question="@string/question_106_question"
+        answer1="@string/question_106_answer1"
+        answer2="@string/question_106_answer2"
+        answer3="@string/question_106_answer3"
+        answer4="@string/question_106_answer4"
+        answer5="@string/question_106_answer5"
+        answer="4"
+        explanation="@string/question_106_explanation"
+        translated="@string/question_106_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="107"
+        question="@string/question_107_question"
+        answer1="@string/question_107_answer1"
+        answer2="@string/question_107_answer2"
+        answer3="@string/question_107_answer3"
+        answer4="@string/question_107_answer4"
+        answer5="@string/question_107_answer5"
+        answer="1"
+        explanation="@string/question_107_explanation"
+        translated="@string/question_107_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="108"
+        question="@string/question_108_question"
+        answer1="@string/question_108_answer1"
+        answer2="@string/question_108_answer2"
+        answer3="@string/question_108_answer3"
+        answer4="@string/question_108_answer4"
+        answer5="@string/question_108_answer5"
+        answer="4"
+        explanation="@string/question_108_explanation"
+        translated="@string/question_108_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="109"
+        question="@string/question_109_question"
+        answer1="@string/question_109_answer1"
+        answer2="@string/question_109_answer2"
+        answer3="@string/question_109_answer3"
+        answer4="@string/question_109_answer4"
+        answer5="@string/question_109_answer5"
+        answer="4"
+        explanation="@string/question_109_explanation"
+        translated="@string/question_109_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="110"
+        question="@string/question_110_question"
+        answer1="@string/question_110_answer1"
+        answer2="@string/question_110_answer2"
+        answer3="@string/question_110_answer3"
+        answer4="@string/question_110_answer4"
+        answer5="@string/question_110_answer5"
+        answer="1"
+        explanation="@string/question_110_explanation"
+        translated="@string/question_110_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="111"
+        question="@string/question_111_question"
+        answer1="@string/question_111_answer1"
+        answer2="@string/question_111_answer2"
+        answer3="@string/question_111_answer3"
+        answer4="@string/question_111_answer4"
+        answer5="@string/question_111_answer5"
+        answer="1"
+        explanation="@string/question_111_explanation"
+        translated="@string/question_111_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="112"
+        question="@string/question_112_question"
+        answer1="@string/question_112_answer1"
+        answer2="@string/question_112_answer2"
+        answer3="@string/question_112_answer3"
+        answer4="@string/question_112_answer4"
+        answer5="@string/question_112_answer5"
+        answer="4"
+        explanation="@string/question_112_explanation"
+        translated="@string/question_112_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="113"
+        question="@string/question_113_question"
+        answer1="@string/question_113_answer1"
+        answer2="@string/question_113_answer2"
+        answer3="@string/question_113_answer3"
+        answer4="@string/question_113_answer4"
+        answer5="@string/question_113_answer5"
+        answer="3"
+        explanation="@string/question_113_explanation"
+        translated="@string/question_113_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="114"
+        question="@string/question_114_question"
+        answer1="@string/question_114_answer1"
+        answer2="@string/question_114_answer2"
+        answer3="@string/question_114_answer3"
+        answer4="@string/question_114_answer4"
+        answer5="@string/question_114_answer5"
+        answer="2"
+        explanation="@string/question_114_explanation"
+        translated="@string/question_114_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="115"
+        question="@string/question_115_question"
+        answer1="@string/question_115_answer1"
+        answer2="@string/question_115_answer2"
+        answer3="@string/question_115_answer3"
+        answer4="@string/question_115_answer4"
+        answer5="@string/question_115_answer5"
+        answer="3"
+        explanation="@string/question_115_explanation"
+        translated="@string/question_115_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="116"
+        question="@string/question_116_question"
+        answer1="@string/question_116_answer1"
+        answer2="@string/question_116_answer2"
+        answer3="@string/question_116_answer3"
+        answer4="@string/question_116_answer4"
+        answer5="@string/question_116_answer5"
+        answer="2"
+        explanation="@string/question_116_explanation"
+        translated="@string/question_116_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="117"
+        question="@string/question_117_question"
+        answer1="@string/question_117_answer1"
+        answer2="@string/question_117_answer2"
+        answer3="@string/question_117_answer3"
+        answer4="@string/question_117_answer4"
+        answer5="@string/question_117_answer5"
+        answer="1"
+        explanation="@string/question_117_explanation"
+        translated="@string/question_117_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="118"
+        question="@string/question_118_question"
+        answer1="@string/question_118_answer1"
+        answer2="@string/question_118_answer2"
+        answer3="@string/question_118_answer3"
+        answer4="@string/question_118_answer4"
+        answer5="@string/question_118_answer5"
+        answer="4"
+        explanation="@string/question_118_explanation"
+        translated="@string/question_118_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="119"
+        question="@string/question_119_question"
+        answer1="@string/question_119_answer1"
+        answer2="@string/question_119_answer2"
+        answer3="@string/question_119_answer3"
+        answer4="@string/question_119_answer4"
+        answer5="@string/question_119_answer5"
+        answer="1"
+        explanation="@string/question_119_explanation"
+        translated="@string/question_119_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="120"
+        question="@string/question_120_question"
+        answer1="@string/question_120_answer1"
+        answer2="@string/question_120_answer2"
+        answer3="@string/question_120_answer3"
+        answer4="@string/question_120_answer4"
+        answer5="@string/question_120_answer5"
+        answer="5"
+        explanation="@string/question_120_explanation"
+        translated="@string/question_120_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="121"
+        question="@string/question_121_question"
+        answer1="@string/question_121_answer1"
+        answer2="@string/question_121_answer2"
+        answer3="@string/question_121_answer3"
+        answer4="@string/question_121_answer4"
+        answer5="@string/question_121_answer5"
+        answer="2"
+        explanation="@string/question_121_explanation"
+        translated="@string/question_121_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="122"
+        question="@string/question_122_question"
+        answer1="@string/question_122_answer1"
+        answer2="@string/question_122_answer2"
+        answer3="@string/question_122_answer3"
+        answer4="@string/question_122_answer4"
+        answer5="@string/question_122_answer5"
+        answer="5"
+        explanation="@string/question_122_explanation"
+        translated="@string/question_122_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="123"
+        question="@string/question_123_question"
+        answer1="@string/question_123_answer1"
+        answer2="@string/question_123_answer2"
+        answer3="@string/question_123_answer3"
+        answer4="@string/question_123_answer4"
+        answer5="@string/question_123_answer5"
+        answer="2"
+        explanation="@string/question_123_explanation"
+        translated="@string/question_123_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="124"
+        question="@string/question_124_question"
+        answer1="@string/question_124_answer1"
+        answer2="@string/question_124_answer2"
+        answer3="@string/question_124_answer3"
+        answer4="@string/question_124_answer4"
+        answer5="@string/question_124_answer5"
+        answer="1"
+        explanation="@string/question_124_explanation"
+        translated="@string/question_124_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="125"
+        question="@string/question_125_question"
+        answer1="@string/question_125_answer1"
+        answer2="@string/question_125_answer2"
+        answer3="@string/question_125_answer3"
+        answer4="@string/question_125_answer4"
+        answer5="@string/question_125_answer5"
+        answer="1"
+        explanation="@string/question_125_explanation"
+        translated="@string/question_125_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="126"
+        question="@string/question_126_question"
+        answer1="@string/question_126_answer1"
+        answer2="@string/question_126_answer2"
+        answer3="@string/question_126_answer3"
+        answer4="@string/question_126_answer4"
+        answer5="@string/question_126_answer5"
+        answer="2"
+        explanation="@string/question_126_explanation"
+        translated="@string/question_126_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="127"
+        question="@string/question_127_question"
+        answer1="@string/question_127_answer1"
+        answer2="@string/question_127_answer2"
+        answer3="@string/question_127_answer3"
+        answer4="@string/question_127_answer4"
+        answer5="@string/question_127_answer5"
+        answer="2"
+        explanation="@string/question_127_explanation"
+        translated="@string/question_127_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="128"
+        question="@string/question_128_question"
+        answer1="@string/question_128_answer1"
+        answer2="@string/question_128_answer2"
+        answer3="@string/question_128_answer3"
+        answer4="@string/question_128_answer4"
+        answer5="@string/question_128_answer5"
+        answer="4"
+        explanation="@string/question_128_explanation"
+        translated="@string/question_128_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="129"
+        question="@string/question_129_question"
+        answer1="@string/question_129_answer1"
+        answer2="@string/question_129_answer2"
+        answer3="@string/question_129_answer3"
+        answer4="@string/question_129_answer4"
+        answer5="@string/question_129_answer5"
+        answer="5"
+        explanation="@string/question_129_explanation"
+        translated="@string/question_129_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="130"
+        question="@string/question_130_question"
+        answer1="@string/question_130_answer1"
+        answer2="@string/question_130_answer2"
+        answer3="@string/question_130_answer3"
+        answer4="@string/question_130_answer4"
+        answer5="@string/question_130_answer5"
+        answer="5"
+        explanation="@string/question_130_explanation"
+        translated="@string/question_130_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="131"
+        question="@string/question_131_question"
+        answer1="@string/question_131_answer1"
+        answer2="@string/question_131_answer2"
+        answer3="@string/question_131_answer3"
+        answer4="@string/question_131_answer4"
+        answer5="@string/question_131_answer5"
+        answer="2"
+        explanation="@string/question_131_explanation"
+        translated="@string/question_131_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="132"
+        question="@string/question_132_question"
+        answer1="@string/question_132_answer1"
+        answer2="@string/question_132_answer2"
+        answer3="@string/question_132_answer3"
+        answer4="@string/question_132_answer4"
+        answer5="@string/question_132_answer5"
+        answer="2"
+        explanation="@string/question_132_explanation"
+        translated="@string/question_132_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="133"
+        question="@string/question_133_question"
+        answer1="@string/question_133_answer1"
+        answer2="@string/question_133_answer2"
+        answer3="@string/question_133_answer3"
+        answer4="@string/question_133_answer4"
+        answer5="@string/question_133_answer5"
+        answer="1"
+        explanation="@string/question_133_explanation"
+        translated="@string/question_133_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="134"
+        question="@string/question_134_question"
+        answer1="@string/question_134_answer1"
+        answer2="@string/question_134_answer2"
+        answer3="@string/question_134_answer3"
+        answer4="@string/question_134_answer4"
+        answer5="@string/question_134_answer5"
+        answer="2"
+        explanation="@string/question_134_explanation"
+        translated="@string/question_134_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="135"
+        question="@string/question_135_question"
+        answer1="@string/question_135_answer1"
+        answer2="@string/question_135_answer2"
+        answer3="@string/question_135_answer3"
+        answer4="@string/question_135_answer4"
+        answer5="@string/question_135_answer5"
+        answer="5"
+        explanation="@string/question_135_explanation"
+        translated="@string/question_135_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="136"
+        question="@string/question_136_question"
+        answer1="@string/question_136_answer1"
+        answer2="@string/question_136_answer2"
+        answer3="@string/question_136_answer3"
+        answer4="@string/question_136_answer4"
+        answer5="@string/question_136_answer5"
+        answer="3"
+        explanation="@string/question_136_explanation"
+        translated="@string/question_136_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="137"
+        question="@string/question_137_question"
+        answer1="@string/question_137_answer1"
+        answer2="@string/question_137_answer2"
+        answer3="@string/question_137_answer3"
+        answer4="@string/question_137_answer4"
+        answer5="@string/question_137_answer5"
+        answer="3"
+        explanation="@string/question_137_explanation"
+        translated="@string/question_137_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="138"
+        question="@string/question_138_question"
+        answer1="@string/question_138_answer1"
+        answer2="@string/question_138_answer2"
+        answer3="@string/question_138_answer3"
+        answer4="@string/question_138_answer4"
+        answer5="@string/question_138_answer5"
+        answer="3"
+        explanation="@string/question_138_explanation"
+        translated="@string/question_138_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="139"
+        question="@string/question_139_question"
+        answer1="@string/question_139_answer1"
+        answer2="@string/question_139_answer2"
+        answer3="@string/question_139_answer3"
+        answer4="@string/question_139_answer4"
+        answer5="@string/question_139_answer5"
+        answer="5"
+        explanation="@string/question_139_explanation"
+        translated="@string/question_139_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="140"
+        question="@string/question_140_question"
+        answer1="@string/question_140_answer1"
+        answer2="@string/question_140_answer2"
+        answer3="@string/question_140_answer3"
+        answer4="@string/question_140_answer4"
+        answer5="@string/question_140_answer5"
+        answer="1"
+        explanation="@string/question_140_explanation"
+        translated="@string/question_140_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="141"
+        question="@string/question_141_question"
+        answer1="@string/question_141_answer1"
+        answer2="@string/question_141_answer2"
+        answer3="@string/question_141_answer3"
+        answer4="@string/question_141_answer4"
+        answer5="@string/question_141_answer5"
+        answer="2"
+        explanation="@string/question_141_explanation"
+        translated="@string/question_141_translated"
+        submitter="Arolina Schiattarella" />
+
+    <Question
+        questionId="142"
+        question="@string/question_142_question"
+        answer1="@string/question_142_answer1"
+        answer2="@string/question_142_answer2"
+        answer3="@string/question_142_answer3"
+        answer4="@string/question_142_answer4"
+        answer5="@string/question_142_answer5"
+        answer="4"
+        explanation="@string/question_142_explanation"
+        translated="@string/question_142_translated"
+        submitter="Arolina Schiattarella" />
+
+</QuestionList>

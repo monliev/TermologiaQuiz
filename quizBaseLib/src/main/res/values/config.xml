@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Application Name -->
+    <string name="quiz_app_name">Physics Quiz</string>
+    
+    <!-- Google APIs -->
+    <!-- ID Google API. Used for Google Play Games -->
+    <string name="google_services_app_id" tools:ignore="MissingTranslation" translatable="false">259228736244</string>
+    
+    <!-- Achievements ids -->
+    <!-- Signed in achievement -->
+    <string name="google_game_achivementid_signedin" translatable="false">CgkI9LXy2cUHEAIQBg</string>
+    <!-- Forgot To Play achievement -->
+    <string name="google_game_achivementid_10questions_forgottoplay" translatable="false">CgkI9LXy2cUHEAIQBQ</string>
+    <!-- All Good achievement -->
+    <string name="google_game_achivementid_10questions_allgood" translatable="false">CgkI9LXy2cUHEAIQBA</string>
+    <!-- Master Looser achievement -->
+    <string name="google_game_achivementid_10questions_masterlooser" translatable="false">CgkI9LXy2cUHEAIQAw</string>
+    <!-- Great Player achievement -->
+    <string name="google_game_achivementid_10questions_greatplayer" translatable="false">CgkI9LXy2cUHEAIQAg</string>
+    
+    <!-- Leaderboard ids -->
+    <!-- Best Score OneTry LeaderBoard -->
+    <string name="google_game_leaderboardid_onetry_bestscore" translatable="false">CgkI9LXy2cUHEAIQAA</string>
+    <!-- Best Score 10QuestionsLeaderBoard -->
+    <string name="google_game_leaderboardid_10questions_bestscore" translatable="false">CgkI9LXy2cUHEAIQAQ</string>
+    
+    <!-- Other configurations... -->
+    <!-- Time to wait after user click on Next -->
+    <item type="bool" name="quiz_config_hastutorial">true</item>
+    <!-- Time to wait after user click on Next -->
+    <item type="integer" name="quiz_config_timeafteranswerinmillisecond">1000</item>
+    <!-- Show answer when user answers wrong -->
+    <item type="bool" name="quiz_config_showanswerwhenfalse">true</item>
+    <!-- config for onetry -->
+    <item type="integer" name="quiz_config_onetry_timeforanswerinsecond">20</item>
+    <!-- config for 10Questions -->
+    <item type="integer" name="quiz_config_10questions_timeforanswerinsecond">40</item>
+    <!-- config for 50Questions -->
+    <item type="integer" name="quiz_config_50questions_timeforanswerinsecond">100</item>
+    <!-- config for Marathon -->
+    <item type="integer" name="quiz_config_marathon_lives">3</item>
+    
+    <!--  Application Back Office link -->
+    <string name="quiz_config_backoffice_link">http://google.com</string>
+
+</resources>
